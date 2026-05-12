@@ -139,10 +139,10 @@ LabTouchstone evaluates layouts across four dimensions:
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{cao2026labbuilder,
+@article{cao2026labbuilder,
   title={LabBuilder: Protocol-Grounded 3D Layout Generation for Interactable and Safe Laboratory},
-  author={Cao, Jianbao and Zhao, Zhangrui and Feng, Bohan and Hu, Zixuan and Li, Rui and Wan, Haiyuan and Li, Chenxi and Li, Jingyuan and Cai, Wenzhe and Bai, Lei and Ouyang, Wanli and Duan, Lingyu and Huang, Di and Pan, Minting and Zhang, Sha and Ma, Xinzhu and Tang, Shixiang and Zhou, Dongzhan},
-  booktitle={Proceedings of the 43rd International Conference on Machine Learning (ICML)},
+  author={Cao, Jianbao and Zhao, Zhangrui and Feng, Bohan and Hu, Zixuan and Li, Rui and Wan, Haiyuan and Li, Chenxi and Li, Jingyuan and Cai, Wenzhe and Bai, Lei and others},
+  journal={arXiv preprint arXiv:2605.02288},
   year={2026}
 }
 ```
