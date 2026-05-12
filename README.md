@@ -5,10 +5,9 @@
 <h1 align="center">LabBuilder: Protocol-Grounded 3D Layout Generation<br>for Interactable and Safe Laboratory</h1>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2605.02288"><img src="https://img.shields.io/badge/%F0%9F%93%84_Paper-arXiv-red.svg" alt="Paper"></a>
+  <a href="https://arxiv.org/pdf/2605.02288"><img src="https://img.shields.io/badge/%F0%9F%93%84_Paper-PDF-red.svg" alt="Paper"></a>
   <a href="https://arxiv.org/abs/2605.02288"><img src="https://img.shields.io/badge/arXiv-2605.02288-b31b1b.svg" alt="arXiv"></a>
   <a href="https://che-0212.github.io/LabBuilder-site/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Website-LabBuilder-blue.svg" alt="Website"></a>
-  <a href="https://github.com/che-0212/LabBuilder"><img src="https://img.shields.io/badge/GitHub-Code-black?logo=github" alt="Code"></a>
 </p>
 
 <p align="center">
