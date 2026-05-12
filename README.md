@@ -74,6 +74,14 @@ Download the annotated 3D asset files (USD format):
 
 The asset metadata (`data/assets_annotated.json`) is included in this repository and contains geometry, semantic, and chemical safety annotations for 176 laboratory assets.
 
+## Release Status
+
+| Module | Status | Description |
+|--------|--------|-------------|
+| **LabForge** | Released | Protocol synthesis from experimental descriptions |
+| **LabGen** | Coming soon | Hierarchical layout generation & optimization |
+| **LabTouchstone** | Coming soon | Four-dimensional evaluation benchmark |
+
 ## Code Structure
 
 ```
@@ -84,31 +92,9 @@ LabBuilder/
 │   ├── protocol_schema.py       #   Data schemas (Protocol, Step, Asset, Constraint)
 │   └── ragflow_client.py        #   RAG-based knowledge retrieval (optional)
 │
-├── labgen/                      # LabGen: Layout Generation & Optimization
-│   ├── layout_generator/        #   Hierarchical Layout Initialization
-│   │   ├── layout_engine_v3.py  #     Two-stage LLM layout engine (room + desktop)
-│   │   ├── prompts_v3.py        #     Prompt templates with coordinate system docs
-│   │   └── generate_layout_v3.py#     CLI entry point
-│   ├── optimizer/               #   Geometric and Chemical Optimization
-│   │   ├── optimizer_engine.py  #     Iterative optimization (FastRepair + LLMAdjust)
-│   │   ├── llm_agent.py         #     LLM-based layout adjustment agent
-│   │   ├── layout_editor.py     #     Layout modification operations
-│   │   └── config.py            #     Optimizer configuration
-│   └── navigation/              #   Navigation-Aware Refinement
-│       ├── navigation_optimizer.py          # A* pathfinding + occupancy grid
-│       └── iterative_navigation_optimizer.py # Iterative navigation loop
+├── labgen/                      # [Coming Soon] LabGen: Layout Generation & Optimization
 │
-├── labtouchstone/               # LabTouchstone: Evaluation Suite
-│   ├── evaluator/               #   Layout Evaluation Pipeline
-│   │   ├── main.py              #     Entry point
-│   │   ├── physical_evaluator.py#     Physical + chemical constraint evaluator
-│   │   ├── chemical_constraint_checker.py  # Chemical safety (CSP) scoring
-│   │   ├── semantic_evaluator.py#     LLM + multimodal semantic evaluation
-│   │   └── config.py            #     Scoring weights and thresholds
-│   └── metrics/                 #   Standalone Metrics
-│       ├── geometry_metrics.py  #     Collision, boundary, height metrics
-│       ├── chemical_metrics.py  #     Chemical safety satisfaction metrics
-│       └── semantic_metrics.py  #     Multimodal LLM-based semantic scoring
+├── labtouchstone/               # [Coming Soon] LabTouchstone: Evaluation Suite
 │
 ├── data/                        # Data & Knowledge Base
 │   ├── assets_annotated.json    #   Asset Knowledge Base (176 lab assets)
@@ -118,9 +104,7 @@ LabBuilder/
 │
 ├── scripts/                     # Entry Scripts
 │   ├── run_planner.py           #   Single protocol generation
-│   ├── batch_generate_protocols_parallel.py
-│   ├── batch_generate_layouts_parallel.py
-│   └── batch_optimize_layouts_parallel.py
+│   └── batch_generate_protocols_parallel.py
 │
 ├── utils/                       # Shared Utilities
 ├── requirements.txt
@@ -130,48 +114,12 @@ LabBuilder/
 
 ## Usage
 
-### 1. Protocol Synthesis (LabForge)
+### Protocol Synthesis (LabForge)
 
 Generate a structured protocol from a natural language experiment description:
 
 ```bash
 python scripts/run_planner.py "Boc Deprotection of Hydrazine using TFA in DCM"
-```
-
-### 2. Layout Generation (LabGen)
-
-Generate, optimize, and refine a laboratory layout:
-
-```bash
-# Hierarchical layout initialization
-python -m labgen.layout_generator.generate_layout_v3 \
-    --protocol output/protocol.json \
-    --output output/layout.json \
-    --asset-db data/assets_annotated.json
-
-# Geometric and chemical optimization
-python -m labgen.optimizer.main \
-    --layout output/layout.json \
-    --protocol output/protocol.json \
-    --asset-db data/assets_annotated.json \
-    --output output/optimized_layout.json
-
-# Navigation-aware refinement
-python -m labgen.navigation.iterative_navigation_optimizer \
-    --data-dir output/ \
-    --asset-db data/assets_annotated.json
-```
-
-### 3. Evaluation (LabTouchstone)
-
-Evaluate a generated layout:
-
-```bash
-python -m labtouchstone.evaluator.main \
-    --layout output/optimized_layout.json \
-    --protocol output/protocol.json \
-    --asset-db data/assets_annotated.json \
-    --output output/evaluation_report.json
 ```
 
 ### Batch Processing
@@ -181,17 +129,11 @@ python -m labtouchstone.evaluator.main \
 python scripts/batch_generate_protocols_parallel.py \
     --experiments data/experiments.json \
     --output-dir output/protocols/
-
-# Generate layouts in parallel
-python scripts/batch_generate_layouts_parallel.py \
-    --input-dir output/protocols/ \
-    --output-dir output/layouts/
-
-# Optimize layouts in parallel
-python scripts/batch_optimize_layouts_parallel.py \
-    --input-dir output/layouts/ \
-    --output-dir output/optimized/
 ```
+
+### Layout Generation & Evaluation (Coming Soon)
+
+LabGen and LabTouchstone will be released soon. Stay tuned!
 
 ## Evaluation Metrics
 

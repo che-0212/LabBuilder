@@ -29,6 +29,10 @@ assets/*.usd
 assets/*.usda
 assets/*.usdz
 assets/3d_models/
+
+# Not yet released modules
+labgen/
+labtouchstone/
 OUTPUT/
 results/
 *.zip
