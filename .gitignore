@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & Output (large files)
+assets/
+OUTPUT/
+results/
+*.zip
+*.usd
+*.usda
+*.usdz
+
+# Logs
+*.log
+logs/
+
+# Claude
+.claude/

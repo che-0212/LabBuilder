@@ -1,0 +1,1850 @@
+Experiment Description:
+To ethyl 2-methyl-3,4,6-trifluorobenzoylacetate (3.2 g) are added acetic anhydride (3.0 g) and triethoxymethane (2.7 g) and the mixture is refluxed for 1 hour. After concentrating, ethyl 2-(2-methyl-3,4,6-trifluorobenzoyl)-3-ethoxyacrylate (3.5 g) is obtained.
+
+Reactants:
+- CCOC(=O)CC(=O)c1c(F)cc(F)c(F)c1C
+- CC(=O)OC(C)=O
+- CCOC(OCC)OCC
+
+Products:
+- CCOC=C(C(=O)OCC)C(=O)c1c(F)cc(F)c(F)c1C
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+Oxalyl chloride (0.5 ml) was added to a stirred suspension of 4-((4-pyridyl)piperazin-1-yl)benzoic acid in dichloromethane (15 ml), followed by DMF (1 drop). The mixture was stirred for 2 hours and evaporated to dryness to give 4-[(4-pyridyl)piperazin-1-yl]benzoyl chloride which was used immediately.
+
+Reactants:
+- O=C(Cl)C(=O)Cl
+- O=C(O)c1ccc(N2CCNCC2c2ccncc2)cc1
+
+Products:
+- O=C(Cl)c1ccc(N2CCNCC2c2ccncc2)cc1
+
+Catalysts:
+None
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+tert-Butyl (2S)-2-((3S)-3-{[(6-chloro-2-naphthyl)sulfonyl]amino}-2-oxopyrrolidin-1-yl)propanoate (0.643 g) was dissolved in DCM (19 ml), and trifluoroacetic acid (19 ml) was added. The mixture was stirred at room temperature for 2.5 h and then concentrated under reduced pressure. Anhydrous DCM (4 ml) was added and the solution concentrated under reduced pressure. Repetitive addition of DCM and concentration under reduced pressure provided the title compound (0.56 g) as a white foam.
+
+Reactants:
+- C[C@@H](C(=O)OC(C)(C)C)N1CC[C@H](NS(=O)(=O)c2ccc3cc(Cl)ccc3c2)C1=O
+- O=C(O)C(F)(F)F
+
+Products:
+- C[C@@H](C(=O)O)N1CC[C@H](NS(=O)(=O)c2ccc3cc(Cl)ccc3c2)C1=O
+
+Catalysts:
+None
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+Sodium carbonate (1.5 eq) and 2-bromo-1-(3-nitrophenyl)ethanone (1.5 eq) were added to a stirred solution of 2-methyl-5-(1-piperazinyl)quinoline (D3) (1 eq) in tetrahydrofuran at room temperature under an inert atmosphere, and the reaction was left under stirring for 1 h. The solution was then diluted with MeOH, NaBH4 (2 eq) was added and the reaction was left under stirring for 1 h. The solvent was removed under reduced pressure. The crude material was purified on SPE cartridge (SCX) using as eluant a gradient from MeOH to MeOH:CH2Cl2 (1:1) and then 2M NH3 in MeOH affording an intermediate which was reduced following a similar procedure to D6 to give the title compound in 55% yield.
+
+Reactants:
+- O=C([O-])[O-].[Na+].[Na+]
+- O=C(CBr)c1cccc([N+](=O)[O-])c1
+- Cc1ccc2c(N3CCNCC3)cccc2n1
+- [BH4-].[Na+]
+
+Products:
+- Cc1ccc2c(N3CCN(CC(O)c4cccc(N)c4)CC3)cccc2n1
+
+Catalysts:
+None
+
+Solvents:
+- C1CCOC1
+- CO
+
+================================================================================
+
+Experiment Description:
+Under nitrogen atmosphere, a dimethyl sulfoxide (2 ml) solution (3S)-3-(dimethylamino)pyrrolidine (75 μl, 594 μmol) was added at 150° C. to a dimethyl sulfoxide (8 ml) solution of 4-cyano-7-fluoro-N,N,5-trimethyl-6-phenyl-1,3-benzoxazole-2-carboxamide (I-114) (160 mg, 495 μmol) and triethylamine (90 μl, 644 μmol), followed by stirring at the same temperature for 50 minutes.
+
+Reactants:
+- CN(C)[C@H]1CCNC1
+- CCN(CC)CC
+- Cc1c(-c2ccccc2)c(F)c2oc(C(=O)N(C)C)nc2c1C#N
+
+Products:
+- Cc1c(-c2ccccc2)c(N2CC[C@H](N(C)C)C2)c2oc(C(=O)N(C)C)nc2c1C#N
+
+Catalysts:
+None
+
+Solvents:
+- CS(C)=O
+
+================================================================================
+
+Experiment Description:
+The product from Example 3, 5-(5,6-difluoro-1H-indol-2-yl)-2-methoxy-phenylamine (0.277 g, 1.0 mmol) was mixed with 3-isothiocyanatopyridine (0.146 g, 1.07 mmol) in tetrahydrofuran (10 mL) and was heated briefly to 50° C. and then allowed to stand overnight at room temperature. The tetrahydrofuran was removed on the rotary evaporator to give a solid. The solid was triturated with hexanes/ethyl acetate, 1/1, v/v and was triturated a second time with hexanes/ethyl acetate, 4/1, v/v to give the product (0.309 g), mp 128-130° C.
+
+Reactants:
+- COc1ccc(-c2cc3cc(F)c(F)cc3[nH]2)cc1N
+- S=C=Nc1cccnc1
+
+Products:
+- COc1ccc(-c2cc3cc(F)c(F)cc3[nH]2)cc1NC(=S)Nc1cccnc1
+
+Catalysts:
+None
+
+Solvents:
+- C1CCOC1
+
+================================================================================
+
+Experiment Description:
+A solution of 3-(4-hydroxyphenyl)glutaric acid (800 mg) in acetic anhydride (15 ml) is heated at 100° C. for 2.5 hours and evaporated to dryness in vacuo. The residual solid is crystallized from chloroform-hexane to afford 600 mg of 3-(4-acetyloxyphenyl)glutaric anhydride, melting point 140°-143° C.
+
+Reactants:
+- O=C(O)CC(CC(=O)O)c1ccc(O)cc1
+- CC(=O)OC(C)=O
+
+Products:
+- CC(=O)Oc1ccc(C2CC(=O)OC(=O)C2)cc1
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+To a solution of diethyl acetamidomalonate (238 mg, 1.1 mmol) in N,N-dimethylformamide (1 mL) was added 55% sodium hydride (44 mg, 1.1 mmol), and the mixture was stirred at room temperature for 1 hr. Bis(4-fluorophenyl)methylene chloride (93 μL, 0.5 mmol) and tetra-n-butylammonium iodide (24 mg) were added, and the mixture was stirred at 50° C. for 16 hrs and then at 80° C. for 16 hrs. After completion of the reaction, HPLC quantitative analysis was performed to confirm 161 mg of the title compound (Inertsil ODS-2, 0.03 M phosphate buffer:acetonitrile=90:10-25:75 (20 min), 220 nm, 1.0 mL/min, rt).
+
+Reactants:
+- Fc1ccc(C(Cl)(Cl)c2ccc(F)cc2)cc1
+- CCOC(=O)C(NC(C)=O)C(=O)OCC
+- [H-].[Na+]
+
+Products:
+- CCOC(=O)C(NC(C)=O)(C(=O)OCC)C(c1ccc(F)cc1)c1ccc(F)cc1
+
+Catalysts:
+- CCCC[N+](CCCC)(CCCC)CCCC.[I-]
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+100 ml of benzene was added to 18.3 grams of p-chlorocinnamic acid. 12 ml of thionyl chloride was added dropwise slowly thereto at ambient temperature. The temperature was elevated to 80° C. and the heating was continued until foaming ceased. Benzene and thionyl chloride were distilled off and the residue was dried thoroughly under reduced pressure.
+
+Reactants:
+- O=C(O)C=Cc1ccc(Cl)cc1
+- O=S(Cl)Cl
+
+Products:
+- O=C(Cl)C=Cc1ccc(Cl)cc1
+
+Catalysts:
+None
+
+Solvents:
+- c1ccccc1
+
+================================================================================
+
+Experiment Description:
+To a stirred solution of (2-methyl-5-(2H-1,2,3-triazol-2-yl)phenyl)methanol (100 mg, 0.53 mmol) in dichloromethane (5 mL), thionyl chloride (155 mg, 1.3 mmol) was added dropwise at 0° C. and stirred for 1 h. Then the mixture was allowed to warm to rt and stirred overnight. The reaction mixture was concentrated under reduced pressure at rt and dried under high vacuum to yield the title compound (90 mg, 83%). The compound was directly used for the next step without further purification. [TLC Rf=0.66 (ethyl acetate/hexane 30:70)].
+
+Reactants:
+- Cc1ccc(-n2nccn2)cc1CO
+- O=S(Cl)Cl
+
+Products:
+- Cc1ccc(-n2nccn2)cc1CCl
+
+Catalysts:
+None
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+In a round-bottomed flask, thiobenzamide (357 mg, 2.60 mmol) and N-[2-(4-bromoacetyl-phenyl)-ethyl]-acetamide (740 mg, 2.60 mmol) were combined in ethanol (30 ml) and heated to about 80° C. for about three hours. The reaction mixture was then concentrated in vacuo to yield an off-white solid. The resulting material (838 mg, 100% yield) was ascertained to be pure by NMR and was carried into the next step directly without further purification. LRMS ([M+H]+)=323.2.
+
+Reactants:
+- NC(=S)c1ccccc1
+- CC(=O)NCCc1ccc(C(=O)CBr)cc1
+
+Products:
+- CC(=O)NCCc1ccc(-c2csc(-c3ccccc3)n2)cc1
+
+Catalysts:
+None
+
+Solvents:
+- CCO
+
+================================================================================
+
+Experiment Description:
+tert-Butyl 4-(2-(4-fluorophenyl)-2-oxoethyl)piperazine-1-carboxylate (8.65 g, 26.8 mmol), 4 M HCl in dioxane (6 mL) and dioxane (20 mL) were stirred at 43° C. for 1 h. The solvent was removed under reduced pressure and the residue was dried in a vacuum oven to yield the title compound (5.29 g). Exact mass calculated for C12H15FN2O: 222.1. Found: 223.4 (M+H+).
+
+Reactants:
+- CC(C)(C)OC(=O)N1CCN(CC(=O)c2ccc(F)cc2)CC1
+- Cl
+
+Products:
+- O=C(CN1CCNCC1)c1ccc(F)cc1
+
+Catalysts:
+None
+
+Solvents:
+- C1COCCO1
+
+================================================================================
+
+Experiment Description:
+To 2-cyclopropylaniline (498 mg, 3.74 mmol) in acetone (10 mL) was added benzoyl isothiocyanate (0.53 mL, 3.93 mmol) and the mixture was heated at 50° C. for 8 hours. The reaction mixture was concentrated to provide N-((2-cyclopropylphenyl)carbamothioyDbenzamide as a orange oil (1.249 g, 100%): 1H NMR (400 MHz, CDCl3) δ 12.59 (s, 1H), 9.14 (s, 1H), 8.07 (dd, J=7.8, 1.3 Hz, 1H), 7.92 (dd, J=8.4, 1.2 Hz, 2H), 7.69-7.63 (m, 1H), 7.59-7.52 (m, 2H), 7.31-7.26 (m, 1H), 7.23 (td, J=7.5, 1.5 Hz, 1H), 7.13 (dd, J=7.6, 1.5 Hz, 1H), 1.95 (qt, J=12.3, 4.4 Hz, 1H), 1.09-1.01 (m, 2H), 0.76-0.69 (m, 2H); 13C NMR (101 MHz, CDCl3) δ 178.70, 166.72, 137.59, 137.06, 133.71, 131.72, 129.22, 127.51, 127.20, 126.93, 126.12, 125.26, 11.72, 7.03; ESIMS m/z 295 ([M−H]−).
+
+Reactants:
+- Nc1ccccc1C1CC1
+- O=C(N=C=S)c1ccccc1
+
+Products:
+- O=C(NC(=S)Nc1ccccc1C1CC1)c1ccccc1
+
+Catalysts:
+None
+
+Solvents:
+- CC(C)=O
+
+================================================================================
+
+Experiment Description:
+To a solution of 1-methyl-6,7-dihydro-1H-indazol-4(5H)-one (1 g, 6.7 mmol) in EtOH (20 mL) was added NaBH4 (1.2 g, 33.3 mmol) in portions. The resulting mixture was stirred at room temperature for 30 min. The solvent was removed under reduced pressure to afford the crude 1-methyl-4,5,6,7-tetrahydro-1H-indazol-4-ol (700 mg, 68.8%), which was used in the next step directly. MS-ESI (m/z): 153 (M+1)+ (Acq Method: 10-80AB_2 min_220 &254.1 cm; Rt: 0.17 min)
+
+Reactants:
+- Cn1ncc2c1CCCC2=O
+- [BH4-].[Na+]
+
+Products:
+- Cn1ncc2c1CCCC2O
+
+Catalysts:
+None
+
+Solvents:
+- CCO
+
+================================================================================
+
+Experiment Description:
+1.0 g of ethyl 4-(hydroxymethyl)-1,2,5-trimethylpyrrole-3-carboxylate is dissolved in 15 ml of benzene and 0.6 g of thionyl chloride is added dropwise and after total addition the reaction mixture is stirred for 3.5 hours at ambient temperature. The benzene is removed in vacuo leaving the gray solid, ethyl 4-(chloromethyl)-1,2,5-trimethylpyrrole-3-carboxylate.
+
+Reactants:
+- O=S(Cl)Cl
+- CCOC(=O)c1c(CO)c(C)n(C)c1C
+
+Products:
+- CCOC(=O)c1c(CCl)c(C)n(C)c1C
+
+Catalysts:
+None
+
+Solvents:
+- c1ccccc1
+
+================================================================================
+
+Experiment Description:
+Methyl 3-oxo-7-phthalimidocepham-4-carboxylate (b) thus prepared by above methods is dissolved in dioxane, mixed with a solution of diazomethane in ether, and stirred for 1 hour at room temperature. The reaction mixture is evaporated under reduced pressure to give methyl 3-methoxy-7-phthalimido-3-cephem-4-carboxylate in nearly quantitative yield. Recrystallization from a mixture of acetone and ether gives pure crystals, m.p. 225°-227° C.
+
+Reactants:
+- C=[N+]=[N-]
+- COC(=O)C1C(=O)CS[C@@H]2C(N3C(=O)c4ccccc4C3=O)C(=O)N12
+
+Products:
+- COC(=O)C1=C(OC)CS[C@@H]2C(N3C(=O)c4ccccc4C3=O)C(=O)N12
+
+Catalysts:
+None
+
+Solvents:
+- CCOCC
+- C1COCCO1
+
+================================================================================
+
+Experiment Description:
+6.5 g. of 1,5-diphenylpyrazolo[1,5-a]pyrimidin7(1H)-one (0.0226 mol.) and 18 g. of diphenyl ether are heated at 250°-260° for 90 minutes. After standing overnight, the crystallized 2,6-diphenyl-2H-pyrazolo[3,4-b]pyridin-4-ol is filtered off, washed with ethanol and dried at 80°, yield: 6.1 g. (94%); m.p. 280°-281°.
+
+Reactants:
+- c1ccc(Oc2ccccc2)cc1
+- O=c1cc(-c2ccccc2)nc2ccn(-c3ccccc3)n12
+
+Products:
+- Oc1cc(-c2ccccc2)nc2nn(-c3ccccc3)cc12
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+2-Methoxy-4-(1-Boc-4-piperidyloxy)benzoic acid (3.2 g, 9.1 mmol) was dissolved in THF (35 ml). Thionyl chloride (1 ml, 1.63 g, 13.7 mmol) was added dropwise, followed by 2 drops of pyridine. The mixture was stirred at ambient temperature under nitrogen for 4.5 hours, then concentrated in vacuo. The residue was reconcentrated from ether to give 2-methoxy-4-(1-Boc-4-piperidyloxy)benzoyl chloride.
+
+Reactants:
+- O=S(Cl)Cl
+- COc1cc(OC2CCN(C(=O)OC(C)(C)C)CC2)ccc1C(=O)O
+
+Products:
+- COc1cc(OC2CCN(C(=O)OC(C)(C)C)CC2)ccc1C(=O)Cl
+
+Catalysts:
+None
+
+Solvents:
+- C1CCOC1
+
+================================================================================
+
+Experiment Description:
+To a solution of 3.14 grams (0.02 mole) n-heptylisothiocyanate dissolved in 15 milliliters of benzene is added 2.58 grams (0.02 mole) n-octylamine. The temperature rose to 41° C. The mixture was then refluxed on a steam-bath for about 20 minutes, until the mixture reached a neutral pH. The solution was then evaporated under vacuum. A yield of 6.03 grams of 1-n-heptyl-3-n-octylthiourea was obtained.
+
+Reactants:
+- CCCCCCCCN
+- CCCCCCCN=C=S
+
+Products:
+- CCCCCCCCNC(=S)NCCCCCCC
+
+Catalysts:
+None
+
+Solvents:
+- c1ccccc1
+
+================================================================================
+
+Experiment Description:
+To a mixture of 1.74 grams (0.02 mole) of ethyl isothiocyanate and 25 milliliters of benzene was added 2.14 grams (0.02 mole) of benzylamine. The temperature rose from 25° C. to 41° C. The reaction mixture was then refluxed on a steam bath for about 20 minutes to bring the reaction to completion. The mixture was evaporated under vacuum to give 3.67 grams of 1-ethyl-3-benzyl thiourea.
+
+Reactants:
+- NCc1ccccc1
+- CCN=C=S
+
+Products:
+- CCNC(=S)NCc1ccccc1
+
+Catalysts:
+None
+
+Solvents:
+- c1ccccc1
+
+================================================================================
+
+Experiment Description:
+To a solution of 5.0 g of (phenylthio)acetic acid in 20 ml of toluene under nitrogen was added 5.2 ml of oxalyl chloride in four portions. The solution was stirred at room temperature for about twenty hours and then concentrated in vacuo to the oily title compound, which was used in subsequent reactions without further purificaton or characterization.
+
+Reactants:
+- O=C(O)CSc1ccccc1
+- O=C(Cl)C(=O)Cl
+
+Products:
+- O=C(Cl)CSc1ccccc1
+
+Catalysts:
+None
+
+Solvents:
+- Cc1ccccc1
+
+================================================================================
+
+Experiment Description:
+To 0.626 g of 2-methylthiothiazolo[4,5-b]pyridine (Smith, K., Lindsay, C., Morris, I. K., Matthews, I. and Pritchard, G. J., Sulfur Letters 17, 197-216 (1994)), is added 0.71 g methyl tosylate. The mixture is heated at 120° C. for one hour. After cooling, the resulting oily mixture is washed with 10 mL of ethyl acetate. After the ethyl acetate is decanted, Compound 5 is isolated as an oil.
+
+Reactants:
+- CSc1nc2ncccc2s1
+- COS(=O)(=O)c1ccc(C)cc1
+
+Products:
+- CSc1[nH+]c2nc(C)ccc2s1.Cc1ccc(S(=O)(=O)[O-])cc1
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+Ethyl (1-azabicyclo[2.2.2]octan-3-yl)cyanoacetate (10 g, 45 mmol) was added to a solution of sodium (1.04 g, 45 mmol) in absolute ethanol (60 ml). The mixture was stirred for 15 min. at room temperature and isoamylnitrite (7.9 ml, 60 mmol) was added. The reaction mixture was stirred for 18 h at 60° C. Evaporation of the reaction mixture gave crude title compound, which was used without further purification.
+
+Reactants:
+- CCOC(=O)C(C#N)C1CN2CCC1CC2
+- [Na]
+- CC(C)CCON=O
+
+Products:
+- N#CC(=NO)C1CN2CCC1CC2
+
+Catalysts:
+None
+
+Solvents:
+- CCO
+
+================================================================================
+
+Experiment Description:
+To a stirred, refluxing solution of 0.6 gram of 3,4-dimethoxy-3-cyclobutene-1,2-dione in 20 ml. of absolute ethanol is added dropwise a solution of 1.8 grams of 1-ethylpiperazine and 20 ml. of absolute ethanol. The resulting solution is stirred overnight under a nitrogen atmosphere at room temperature. The reaction mixture is then concentrated under reduced pressure, cooled, and the resultant crystals filtered and dried to afford, as a white solid, 3,4-bis(4-ethyl-1-piperazinyl)-3-cyclobutene-1,2-dione. This compound melts at about 164°-166° C., and is represented by the following structural formula. ##STR6##
+
+Reactants:
+- CCN1CCNCC1
+- COc1c(OC)c(=O)c1=O
+
+Products:
+- CCN1CCN(c2c(N3CCN(CC)CC3)c(=O)c2=O)CC1
+
+Catalysts:
+None
+
+Solvents:
+- CCO
+
+================================================================================
+
+Experiment Description:
+As per the procedure of Example 49, uridine (10 g) was treated with dibutyl tin oxide (10.2 g, 1 eq). The resulting 2',3'-O-dibutylstannylene uridine was treated with iodopropane (8 ml, 2 eq.) at 110° C. as per Example 50 to give a mixture of the 2' and 3' isomers (5.5 g) as a foam.
+
+Reactants:
+- O=c1ccn([C@@H]2O[C@H](CO)[C@@H](O)[C@H]2O)c(=O)[nH]1
+- CCCC[Sn](=O)CCCC
+- CCCCO[C@@H]1[C@@H](C(O)=[SnH2])O[C@@H](n2ccc(=O)[nH]c2=O)[C@@]1(O)CCCC
+- CCCI
+
+Products:
+- CCCO[C@@H]1[C@H](O)[C@@H](CO)O[C@H]1n1ccc(=O)[nH]c1=O
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+A solution of 33 mg (0.05 mmol) of 9H-fluoren-9-ylmethyl{(1S)-4-amino-1-[({(2S)-2,5-bis[(tert-butoxycarbonyl)amino]pentyl}amino)carbonyl]-4-oxobutyl}carbamate (Example 129A) in 1 ml of dimethylformamide is stirred after the addition of 4 mg (0.05 mmol) of piperidine at room temperature for 45 min. The solvent is evaporated and the crude product is reacted without further purification.
+
+Reactants:
+- C1CCNCC1
+- CC(C)(C)OC(=O)NCCC[C@@H](CNC(=O)[C@H](CCC(N)=O)NC(=O)OCC1c2ccccc2-c2ccccc21)NC(=O)OC(C)(C)C
+
+Products:
+- CC(C)(C)OC(=O)NCCC[C@@H](CNC(=O)[C@@H](N)CCC(N)=O)NC(=O)OC(C)(C)C
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+To a suspension of 3-nitrobenzoic acid (934 mg, 5.64 mmol) in benzene (15 mL) was added oxalyl chloride (0.6 mL, 6.77 mmol) and DMF (7 mL), respectively. The resulting mixture was stirred at room temperature until a clear solution was formed. The solvent was removed under reduced pressure and crude acid chloride was used in the next reaction without further purification.
+
+Reactants:
+- O=C(Cl)C(=O)Cl
+- CN(C)C=O
+- O=C(O)c1cccc([N+](=O)[O-])c1
+
+Products:
+- O=C(Cl)c1cccc([N+](=O)[O-])c1
+
+Catalysts:
+None
+
+Solvents:
+- c1ccccc1
+
+================================================================================
+
+Experiment Description:
+To a 0° C. solution of cyclohexaneacetic acid (2.12 g, 14.9 mmol) in 30 mL of CH2Cl2 was added two drops of DMF followed by oxalyl chloride (1.3 mL, 14.9 mmol). The solution was warmed to r.t. and stirred overnight. The solvent was remove in vacuo to give 1.60 g of the title compound as a colourless liquid.
+
+Reactants:
+- O=C(Cl)C(=O)Cl
+- O=C(O)CC1CCCCC1
+
+Products:
+- O=C(Cl)CC1CCCCC1
+
+Catalysts:
+- CN(C)C=O
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+In 50 ml of methanol was suspended 22 g of nicotinic acid hydrazide. To the suspension was added dropwise 13.2 ml of crotonaldehyde, followed by stirring for 30 minutes at room temperature. Methanol was distilled away under reduced pressure, and the residue washed with ether, filtered off, and dried. Thus there was obtained 27.5 g of crotonaldehyde nicotinoyl hydrazone (mp. 144°-145° C.).
+
+Reactants:
+- C/C=C/C=O
+- NNC(=O)c1cccnc1
+
+Products:
+- C/C=C/C=NNC(=O)c1cccnc1
+
+Catalysts:
+None
+
+Solvents:
+- CO
+
+================================================================================
+
+Experiment Description:
+5-((3R)-3-tert-Butoxycarbonylaminomethylpyrrolidin-1-yl)pentylamine (2.0 g) was dissolved in methylene chloride (20 ml) and a solution of isopropyl isocyanate (0.69 ml) in methylene chloride was dropwise added under ice-cooling. The mixture was stirred at room temperature for 0.25 hr, and the reaction mixture was concentrated under reduced pressure to give (3R)-3-tert-butoxycarbonylaminomethyl-1-(5-(3-isopropylureido)pentyl)pyrrolidine.
+
+Reactants:
+- CC(C)N=C=O
+- CC(C)(C)OC(=O)NC[C@H]1CCN(CCCCCN)C1
+
+Products:
+- CC(C)NC(=O)NCCCCCN1CC[C@H](CNC(=O)OC(C)(C)C)C1
+
+Catalysts:
+None
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+0.12 grams (0.003 mole) of magnesium oxide, a catalyst, was dissolved in 16 milliliters (ml) (0.405 mole) of 95% formic acid. 60.2 ml of acetic anhydride was then added to the aforementioned solution which was heated to 35°-40° C. for 10-15 minutes. Subsequently, 39.93 grams (0.3 mole) of L-aspartic acid was added and this mixture was stirred for 2.5 hours at 50±2° C. At this point, an additional 8.6 ml of acetic anhydride was added and the reaction continued for an additional 2.5 hours at 50±2° C. 9.2 ml (0.120 mole) of isopropyl alcohol was then added to the reaction mixture and heating was continued for an additional two hours. N-formyl aspartic anhydride was formed at this point as shown by high performance liquid chromatography (HPLC).
+
+Reactants:
+- CC(=O)OC(C)=O
+- [Mg+2].[O-2]
+- O=CO
+- N[C@@H](CC(=O)O)C(=O)O
+- CC(C)O
+
+Products:
+- O=CN[C@H]1CC(=O)OC1=O
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+The compound (R)-2-(6-(4-(1,3,4-oxadiazol-2-yl)phenylamino)-5-cyanopyrazin-2-ylamino)butanamide (57 mg, 0.156 mmol) was dissolved in EtOH (2 mL) and DMSO (1 mL), aq. 1N NaOH (1.0 mL) and aq. H2O2 (30%, 1.0 mL) were added. The mixture was stirred at room temperature for 30 min. HOAc (0.5 mL) was added. The mixture was then concentrated in vacuo. The residue was purified by HPLC to give the titled compound (3 mg). MS 383.3 (M+H); UV 204.7, 275.5, 329.8 nm; t 0.449 min.
+
+Reactants:
+- [Na+].[OH-]
+- OO
+- CC(=O)O
+- CC[C@@H](Nc1cnc(C#N)c(Nc2ccc(-c3nnco3)cc2)n1)C(N)=O
+
+Products:
+- CC[C@@H](Nc1cnc(C(N)=O)c(Nc2ccc(-c3nnco3)cc2)n1)C(N)=O
+
+Catalysts:
+None
+
+Solvents:
+- CS(C)=O
+- CCO
+
+================================================================================
+
+Experiment Description:
+To a solution of ethyl 2-(pyrimidin-2-yl)acetate (Example 31b, 410 mg, 2.47 mmol) in ethanol (5 mL) was added 2N NaOH (2 mL) at room temperature under nitrogen. The reaction mixture was stirred at room temperature under nitrogen for 72 hours, then concentrated under reduced pressure. The residue was triturated with ethanol and concentrated under reduced pressure to give the title compound, which was carried onto the next step without further purification. MS 139 (MH+).
+
+Reactants:
+- CCOC(=O)Cc1ncccn1
+- [Na+].[OH-]
+
+Products:
+- O=C(O)Cc1ncccn1
+
+Catalysts:
+None
+
+Solvents:
+- CCO
+
+================================================================================
+
+Experiment Description:
+To a mixture of 2.00 g (10.5 mmol) 1-phenyl-1H-[1,2,4]-triazole-3-carboxylic acid in 20 mL DCM was added 10.0 mL (137 mmol) thionyl chloride and 1 drop of DMF. The reaction mixture was stirred at 40° C. for 1 h. The solvent was removed by distillation. Yield: 2.20 g (100%); ESI-MS: m/z=204 (M+H)+ (methyl ester); Rt(HPLC): 1.04 min (method 8) (methyl ester)
+
+Reactants:
+- O=C(O)c1ncn(-c2ccccc2)n1
+- O=S(Cl)Cl
+
+Products:
+- O=C(Cl)c1ncn(-c2ccccc2)n1
+
+Catalysts:
+- CN(C)C=O
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+1-BOC-5-acetoxymethyl-7-nitro-indole-2-carboxylic acid methyl ester (4.7 g, 12.0 mmol) prepared in Step A was dissolved in dichloromethane (50 mL). 2N hydrochloric acid solution (30 mL, 60 mmol) was added thereto, and the mixture was stirred for 12 h at room temperature. The reaction mixture was distilled under reduced pressure to give the solid title compound (3.5 g, Yield 100%).
+
+Reactants:
+- Cl
+- COC(=O)c1cc2cc(COC(C)=O)cc([N+](=O)[O-])c2n1C(=O)OC(C)(C)C
+
+Products:
+- COC(=O)c1cc2cc(COC(C)=O)cc([N+](=O)[O-])c2[nH]1
+
+Catalysts:
+None
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+A suspension of {5-amino-1-[2-(trityloxy)ethyl]pyrazol-4-yl}methylamine (19.7 g, 49.4 mmol) in ethyl formate (500 ml) was stirred at 50° C. for 3 hours. After evaporation of the solvent in vacuo, the residue was triturated with diisopropyl ether to give N-{5-amino-1-[2-(trityloxy)ethyl]pyrazol-4-yl}methylformamide (7.99 g) as a solid.
+
+Reactants:
+- NCc1cnn(CCOC(c2ccccc2)(c2ccccc2)c2ccccc2)c1N
+- CCOC=O
+
+Products:
+- Nc1c(CNC=O)cnn1CCOC(c1ccccc1)(c1ccccc1)c1ccccc1
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+To a solution of ethyl ethylphenylphosphinate (2 g, 10 mmol) in benzene (200 mL) is added oxalyl chloride (1.3 mL, 15 mmol). The mixture is stirred for 3 hours at room temperature. The volatiles are removed on a rotary evaporater and the product is dried under vacuum for 12 hours to give ethylphenylphosphinic chloride as an oil.
+
+Reactants:
+- CCOP(=O)(CC)c1ccccc1
+- O=C(Cl)C(=O)Cl
+
+Products:
+- CCP(=O)(Cl)c1ccccc1
+
+Catalysts:
+None
+
+Solvents:
+- c1ccccc1
+
+================================================================================
+
+Experiment Description:
+N,N-Dimethylformamide (1 mL) was slowly added to a solution of oxalyl chloride (0.13 g, 1 mmol) in chloroform (5 mL). 6-Morpholinonicotinic acid (0.21 g, 1 mmol) was added and the reaction mixture was stirred for 15 minutes. The reaction mixture was concentrated under vacuum, diluted with toluene and then concentrated under vacuum to provide 6-morpholinonicotinoyl chloride. This material was kept under vacuum at ambient temperature overnight and then used in the next step.
+
+Reactants:
+- O=C(O)c1ccc(N2CCOCC2)nc1
+- CN(C)C=O
+- O=C(Cl)C(=O)Cl
+
+Products:
+- O=C(Cl)c1ccc(N2CCOCC2)nc1
+
+Catalysts:
+None
+
+Solvents:
+- ClC(Cl)Cl
+
+================================================================================
+
+Experiment Description:
+5.0 g (19.7 mmol) 5-Amino-1-(5-difluoromethoxy-1-methyl-3-pyrazolyl)-4-pyrazolecarbonitrile was dissolved in 180 ml acetonitrile and 2.65 g (19.7 mmol) sulfuryl chloride added dropwise. The mixture was stirred for one hour at room temperature and concentrated.
+
+Reactants:
+- O=S(=O)(Cl)Cl
+- Cn1nc(-n2ncc(C#N)c2N)cc1OC(F)F
+
+Products:
+- Cn1nc(-n2ncc(C#N)c2N)c(Cl)c1OC(F)F
+
+Catalysts:
+None
+
+Solvents:
+- CC#N
+
+================================================================================
+
+Experiment Description:
+3′,7-Dihydroxyisoflav-3-ene (196 mg, 0.82 mmol) and p-toluidine (130 mg, 1.21 mmol) were dissolved in ethanol (1 ml). Formaldehyde solution (0.6 ml, 8.06 mmol, 37% wt.) was added and the reaction stirred at room temperature for 2 days. The resulting precipitate was collected to afford the title compound (99 mg, 30%).
+
+Reactants:
+- C=O
+- Oc1cccc(C2=Cc3ccc(O)cc3OC2)c1
+- Cc1ccc(N)cc1
+- CCO
+
+Products:
+- Cc1ccc(N2COc3cc4c(cc3C2)C=C(c2cccc(O)c2)CO4)cc1
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+To 3-cyano-5-cyclobutyl-4-methoxybenzoic acid (190 mg), toluene (2.0 mL), N,N-dimethylformamide (1 droplet) and thionyl chloride (0.07 mL) were added, and the mixture was stirred at 60° C. for 3 hours. The solvent was distilled off under reduced pressure and then azeotroped with toluene to obtain the title compound (204 mg) as a brown oily substance.
+
+Reactants:
+- COc1c(C#N)cc(C(=O)O)cc1C1CCC1
+- Cc1ccccc1
+- O=S(Cl)Cl
+
+Products:
+- COc1c(C#N)cc(C(=O)Cl)cc1C1CCC1
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+To 3-cyano-5-ethyl-4-methoxybenzoic acid (347 mg), toluene (3.5 mL), N,N-dimethylformamide (0.01 mL) and thionyl chloride (0.15 mL) were added, and then the mixture was stirred at 60° C. for 14 hours. The solvent was distilled off under reduced pressure and then azeotroped with toluene to obtain the title compound (387 mg) as a brown oily substance.
+
+Reactants:
+- CCc1cc(C(=O)O)cc(C#N)c1OC
+- Cc1ccccc1
+- O=S(Cl)Cl
+
+Products:
+- CCc1cc(C(=O)Cl)cc(C#N)c1OC
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+To 4-methoxy-3-methylsulfanyl-5-trifluoromethylbenzoic acid (277 mg), toluene (7 mL), N,N-dimethylformamide (1 droplet) and thionyl chloride (0.12 mL) were added, and then the mixture was stirred at 60° C. for 16 hours. The solvent was distilled off under reduced pressure and the obtained residue was azeotroped with toluene and used for the synthesis of (f).
+
+Reactants:
+- COc1c(SC)cc(C(=O)O)cc1C(F)(F)F
+- Cc1ccccc1
+- O=S(Cl)Cl
+
+Products:
+- COc1c(SC)cc(C(=O)Cl)cc1C(F)(F)F
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+To 4-benzyloxy-3-methoxy-5-trifluoromethylbenzoic acid (601 mg), toluene (6 mL), N,N-dimethylformamide (1 droplet) and thionyl chloride (0.16 mL) were added, and then the mixture was stirred at 60° C. for 16 hours. The solvent was distilled off under reduced pressure and then azeotroped with toluene to obtain the title compound (657 mg) as a yellow oily substance.
+
+Reactants:
+- COc1cc(C(=O)O)cc(C(F)(F)F)c1OCc1ccccc1
+- Cc1ccccc1
+- O=S(Cl)Cl
+
+Products:
+- COc1cc(C(=O)Cl)cc(C(F)(F)F)c1OCc1ccccc1
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+To 4-benzyloxy-3-chloro-5-methoxybenzoic acid (541 mg), toluene (5.4 mL), N,N-dimethylformamide (1 droplet) and thionyl chloride (0.16 mL) were added, and then the mixture was stirred at 60° C. for 16 hours. The solvent was distilled off under reduced pressure and then azeotroped with toluene to obtain the title compound (578 mg) as a yellow solid.
+
+Reactants:
+- COc1cc(C(=O)O)cc(Cl)c1OCc1ccccc1
+- Cc1ccccc1
+- O=S(Cl)Cl
+
+Products:
+- COc1cc(C(=O)Cl)cc(Cl)c1OCc1ccccc1
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+Variant a) 2.49 g (5.0 mmol) of bis(nonafluorobutyl)phosphinic acid are added dropwise at room temperature to a solution of 1.47 g (5.9 mmol) of phenyltetrachlorophosphorane in 3 cm3 of dry chloroform, and the mixture is stirred for a further 50 minutes. Chloroform is separated off by distillation, and bis(nonafluorobutyl)phosphinyl chloride is distilled off at atmospheric pressure, giving 1.62 g of bis(nonafluorobutyl)phosphinyl chloride, which corresponds to a yield of 63%, based on the phosphinic acid employed.
+
+Reactants:
+- O=P(O)(C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+- ClP(Cl)(Cl)(Cl)c1ccccc1
+
+Products:
+- O=P(Cl)(C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F
+
+Catalysts:
+None
+
+Solvents:
+- ClC(Cl)Cl
+
+================================================================================
+
+Experiment Description:
+4-(Benzyl-methyl-amino)-piperidine-1-carboxylic acid tert-butyl ester was dissolved in DCM and methanol and 2.0M HCl in ether was added. After 3 hours the solvent was removed in vacuo and the residue was recrystallised from ethyl acetate/methanol to yield benzyl-methyl-piperidin-4-yl-amine (hydrochloride salt).
+
+Reactants:
+- CO
+- Cl
+- CN(Cc1ccccc1)C1CCN(C(=O)OC(C)(C)C)CC1
+
+Products:
+- CN(Cc1ccccc1)C1CCNCC1
+
+Catalysts:
+None
+
+Solvents:
+- CCOCC
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+2,3-Dihydro-benzo[b]oxepine-4-carboxylicacid (2.3 mmol) was dissolved in 15 ml tetrahydrofuran. 0.7 ml of thionylchloride were added dropwise and the solution was stirred for two hours. The reaction was quenched by methanol. Methanol and thionylchloride were removed in vacuo yielding 340 mg of 2,3-Dihydro-benzo[b]oxepine-4-carbonylchloride. This was used for step E without further purification.
+
+Reactants:
+- O=S(Cl)Cl
+- O=C(O)C1=Cc2ccccc2OCC1
+
+Products:
+- O=C(Cl)C1=Cc2ccccc2OCC1
+
+Catalysts:
+None
+
+Solvents:
+- C1CCOC1
+
+================================================================================
+
+Experiment Description:
+(Z)-5-Fluoro-2-methyl-1-(p-methylsulfonylbenzylidene)-3-indenylacetic acid (20 g, 53.70 mmol) was suspended in dichloromethane (400 mL). Oxalylchloride (2M in CH2Cl2; 35 mL; 70 mmol) was added at room temperature. The reaction mixture was refluxed (24 h), and was evaporated to yield the title compound, which was used as such in the next step.
+
+Reactants:
+- O=C(Cl)C(=O)Cl
+- CC1=C(CC(=O)O)c2cc(F)ccc2/C1=C\c1ccc(S(C)(=O)=O)cc1
+
+Products:
+- CC1=C(CC(=O)Cl)c2cc(F)ccc2/C1=C\c1ccc(S(C)(=O)=O)cc1
+
+Catalysts:
+None
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+A mixture of 2-phenyl-1-(pyridin-2-yl)ethanone (Intermediate 27) (200 mg, 1.01 mmol), 3-ethoxy-4-hydroxy-5-nitrobenzaldehyde (214.1 mg, 1.01 mmol), urea (182.5 mg, 3.04 mmol), and concentrated hydrochloric acid solution (0.3 mL) in ethanol (1 mL) was refluxed for 60 h. After being cooled down to room temperature, the mixture was evaporated, and purified by preparative HPLC to give Compound 59 (132.5 mg, yield 30.2%). 1H NMR (DMSO-d6 400 MHz): δ 10.26 (brs, 1H), 8.59 (d, J=4.4 Hz, 1H), 8.37 (s, 1H), 7.62-7.54 (m, 2H), 7.42 (s, 1H), 7.30-7.27 (m, 1H), 7.14 (d, J=6.4 Hz, 4H), 6.93-6.90 (m, 3H), 5.25 (s, 1H), 4.03-3.99 (m, 2H), 1.33-1.29 (m, 3H); MS (ESI): m/z 433.0 [M+H]+.
+
+Reactants:
+- O=C(Cc1ccccc1)c1ccccn1
+- CCOc1cc(C=O)cc([N+](=O)[O-])c1O
+- NC(N)=O
+- Cl
+
+Products:
+- CCOc1cc(C2NC(=O)NC(c3ccccn3)=C2c2ccccc2)cc([N+](=O)[O-])c1O
+
+Catalysts:
+None
+
+Solvents:
+- CCO
+
+================================================================================
+
+Experiment Description:
+3-(4-Fluoro-2-methyl-2H-pyrazol-3-yl)-4-methoxy-phenylamine (49 mg, 0.22 mmol) was dissolved in 3 mL of CH2Cl2, treated with 4-chlorophenylisocyanate (40 mg, 0.27 mmol), and stirred at room temperature overnight. The solvent was removed under reduced pressure, dissolved in DMSO (5 ml), and purified by preparative HPLC to afford Compound 27 as a white solid, 41 mg, 49% yield: LCMS m/z (%)=377 (M+H37Cl, 31), 375 (M+H35Cl, 100). 1H NMR (400 MHz, acetone-d6) δ: 8.77 (s, 1H), 8.67 (s, 1H), 7.66 (ddd, J1=9.0 Hz, J2=2.6 Hz, 1H), 7.60 (d, J=9.2 Hz, 2H), 7.54 (d, J=2.8 Hz, 1H), 7.38 (d, JH,F=4.4 Hz, 1H), 7.27 (d, J=8.8 Hz, 2H), 7.12 (d, J=8.8 Hz, 1H), 3.83 (s, 3H), 3.65 (s, 3H). 19F NMR (376 MHz, acetone-d6) δ: −177.39 (d, JH,F=5.3 Hz, 1F).
+
+Reactants:
+- O=C=Nc1ccc(Cl)cc1
+- COc1ccc(N)cc1-c1c(F)cnn1C
+
+Products:
+- COc1ccc(NC(=O)Nc2ccc(Cl)cc2)cc1-c1c(F)cnn1C
+
+Catalysts:
+None
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+tert-Butyl 2-(4-(7-hydroxy-4-oxo-2-(trifluoromethyl)-4H-chromen-3-yl)benzoyl)hydrazinecarboxylate is treated with HCl/MeOH overnight. Solvent is removed under reduced pressure to give the product.
+
+Reactants:
+- CC(C)(C)OC(=O)NNC(=O)c1ccc(-c2c(C(F)(F)F)oc3cc(O)ccc3c2=O)cc1
+- CO
+- Cl
+
+Products:
+- NNC(=O)c1ccc(-c2c(C(F)(F)F)oc3cc(O)ccc3c2=O)cc1
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+To a solution of ethyl 4-(2-tert-butoxy-2-oxoethylidene)cyclohexanecarboxylate (5.3 g, 21 mmol) in CH2Cl2 (30 ml) was added TFA (30 ml). The solution was stirred at room temperature overnight. The solution was concentrated in vacuo to afford 6 g of product as colorless oil, which was used directly for next step without further purification.
+
+Reactants:
+- CCOC(=O)C1CCC(=CC(=O)OC(C)(C)C)CC1
+- O=C(O)C(F)(F)F
+
+Products:
+- CCOC(=O)C1CCC(=CC(=O)O)CC1
+
+Catalysts:
+None
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+22.3 g of 2-hydroxy-4-methyl-5-nitropyridine and 170 ml of POCl3 are mixed together and heated at 100° C. for 3 hours. The cooled reaction medium is poured onto ice to yield a beige precipitate of 2-chloro-4-methyl-5-nitropyridine.
+
+Reactants:
+- Cc1cc(O)ncc1[N+](=O)[O-]
+- O=P(Cl)(Cl)Cl
+
+Products:
+- Cc1cc(Cl)ncc1[N+](=O)[O-]
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+A mixture of 2,2,2-trifluoro-N-(2-trimethylsilanylethynylpyridin-3-yl)acetamide (1.0 eq) and sodium ethoxide (5 eq.) in ethanol is heated at reflux temperature for 10 h, cooled and concentrated in vacuo. The resultant residue is purified by preparative reverse phase HPLC to give the title 4-azaindole.
+
+Reactants:
+- C[Si](C)(C)C#Cc1ncccc1NC(=O)C(F)(F)F
+- CC[O-].[Na+]
+
+Products:
+- c1cnc2cc[nH]c2c1
+
+Catalysts:
+None
+
+Solvents:
+- CCO
+
+================================================================================
+
+Experiment Description:
+To a suspension of 2-(2-amino-thiazol-5-yl)-ethanol (0.844 g, 5.853 mmol) was added thionyl chloride (3 mL). The mixture was heated at 62° C. for 1 h. The volatiles were removed under reduced vacuum. The residue was co-evaporated with toluene (3×5 mL) to give 0.963 g of 5-(2-chloro-ethyl)-thiazol-2-ylamine crude 5-(2-chlorothyl)-2-thiazolamine monohydrochloride as brown oil.
+
+Reactants:
+- Nc1ncc(CCO)s1
+- O=S(Cl)Cl
+
+Products:
+- Nc1ncc(CCCl)s1
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+A round bottom flask was charged with (R)-2-(5-(2-(1-hydroxycycloheptyl)acetamido)-6-methyl-1-oxoisoquinolin-2(1H)-yl)propyl acetate (100.00 mg, 0.14 mmol), potassium carbonate (58.0 mg, 0.000420 mol) and methanol (4 mL, 0.1 mol) and the reaction mixture stirred at room temperature 1 hour. The solvent was removed under reduced pressure and the residue was purified by reverse phase preparative HPLC to afford the product.
+
+Reactants:
+- CC(=O)OC[C@@H](C)n1ccc2c(NC(=O)CC3(O)CCCCCC3)c(C)ccc2c1=O
+- O=C([O-])[O-].[K+].[K+]
+- CO
+
+Products:
+- Cc1ccc2c(=O)n([C@H](C)CO)ccc2c1NC(=O)CC1(O)CCCCCC1
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+3-Fluoro-5-cyanobenzoic acid (2.5 g, 15.14 mmol) was treated with a solution of oxalyl chloride (30 mL of 2.5 M in dichloromethane, 75 mmol) and a catalytic amount of N,N-dimethylformamide. The reaction was stirred at ambient temperature for 2.5 hours. The excess oxalyl chloride was removed in vacuo to afford 3-fluoro-5-cyanobenzoyl chloride.
+
+Reactants:
+- N#Cc1cc(F)cc(C(=O)O)c1
+- O=C(Cl)C(=O)Cl
+
+Products:
+- N#Cc1cc(F)cc(C(=O)Cl)c1
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+3-Chloro-5-fluorobenzoic acid (400 mg, 2.3 mmol) was treated with a solution of oxalyl chloride (4.6 mL of 2.5 M in dichloromethane, 11.5 mmol) and a catalytic amount of N,N-dimethylformamide. The reaction was stirred at ambient temperature for 2.5 hours. The excess oxalyl chloride was removed in vacuo to afford 3-chloro-5-fluorobenzoyl chloride.
+
+Reactants:
+- O=C(O)c1cc(F)cc(Cl)c1
+- O=C(Cl)C(=O)Cl
+
+Products:
+- O=C(Cl)c1cc(F)cc(Cl)c1
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+5-Chloro-O-anisic acid (187 mg, 1 mmol) was treated with a solution of oxalyl chloride (1.5 mL of 2 M in dichloromethane, 3 mmol) and a catalytic amount of N,N-dimethylformamide. The reaction was stirred at ambient temperature for 2 hours. The excess oxalyl chloride was removed in vacuo to afford 5-chloro-2-methoxybenzoyl chloride.
+
+Reactants:
+- COc1ccc(Cl)cc1C(=O)O
+- O=C(Cl)C(=O)Cl
+
+Products:
+- COc1ccc(Cl)cc1C(=O)Cl
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+2,3-Dimethoxybenzoic acid (182 mg, 1 mmol) was treated with a solution of oxalyl chloride (1.5 mL of 2 M in dichloromethane, 3 mmol) and a catalytic amount of N,N-dimethylformamide. The reaction was stirred at ambient temperature for 2 hours. The excess oxalyl chloride was removed in vacuo to afford 2,3-dimethoxybenzoyl chloride.
+
+Reactants:
+- COc1cccc(C(=O)O)c1OC
+- O=C(Cl)C(=O)Cl
+
+Products:
+- COc1cccc(C(=O)Cl)c1OC
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+2-Chloro-5-methylthiobenzoic acid (182 mg, 1 mmol) was treated with a solution of oxalyl chloride (1.5 mL of 2 M in dichloromethane, 3 mmol) and a catalytic amount of N,N-dimethylformamide. The reaction was stirred at ambient temperature for 2 hours. The excess oxalyl chloride was removed in vacuo to afford 2-chloro-5-methylthiobenzoyl chloride.
+
+Reactants:
+- Cc1ccc(Cl)c(C(O)=S)c1
+- O=C(Cl)C(=O)Cl
+
+Products:
+- Cc1ccc(Cl)c(C(=S)Cl)c1
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+A mixture of 1 g of p-chloromethylphenylacetic acid and 6 ml of thionyl chloride is stirred at room temperature for 25 hours after which the excess thionyl chloride is removed under vacuum to yield p-chloromethylphenylacetyl chloride.
+
+Reactants:
+- O=S(Cl)Cl
+- O=C(O)Cc1ccc(CCl)cc1
+
+Products:
+- O=C(Cl)Cc1ccc(CCl)cc1
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+Ethyl α,α-dimethyl-3-pyridylacetate (disclosed in EP Application 0 288 279, published Oct. 26, 1988) (2.67 grams, 13.8 mmoles) was dissolved in EtOH (11.1 ml.) and a 1.0M LiOH in water (33.3 ml.) (33.4 mmoles) was added. The mixture was stirred at 25° C. for 4 hours. 1N HCl (38.73 ml.) was added and after 5 minutes the mixture was evaporated to dryness to give the titlle compound (Yield: 100%).
+
+Reactants:
+- Cl
+- CCOC(=O)C(C)(C)c1cccnc1
+- [Li+].[OH-]
+- O
+
+Products:
+- CC(C)(C(=O)O)c1cccnc1
+
+Catalysts:
+None
+
+Solvents:
+- CCO
+
+================================================================================
+
+Experiment Description:
+Into a suitable reaction vessel containing 5 ml of pyridine, there is added one g (0.0035 mols) of 3-hydroxymethyl-diphenylhydantoin, 0.36 g (0.0035 mols) of N,N-dimethylglycine and 0.79 g (0.0035 mols) of dicyclohexylcarbodiimide (DCCI). The reaction mixture is stirred at room temperature for a period of approximately 24 hours, after which the final product, mp 128°-130°, yield 0.86 g (66.7%) is obtained.
+
+Reactants:
+- O=C1NC(c2ccccc2)(c2ccccc2)C(=O)N1CO
+- CN(C)CC(=O)O
+- C(=NC1CCCCC1)=NC1CCCCC1
+
+Products:
+- CN(C)CC(=O)OCN1C(=O)NC(c2ccccc2)(c2ccccc2)C1=O
+
+Catalysts:
+None
+
+Solvents:
+- c1ccncc1
+
+================================================================================
+
+Experiment Description:
+The 1-p-ethoxyphenyl-2,2-dichlorocyclopropane-1-carboxylic acid (1.38 g) was refluxed on a water bath with thionyl chloride (1.19 g) for 15 minutes. The excess thionyl chloride was then evaporated under vacuum (1 Torr.) and the residue of carbonyl chloride reacted without further purification with one of the alcohols (a), (b), (c) or (d). ##STR9##
+
+Reactants:
+- CCOc1ccc(C2(C(=O)O)CC2(Cl)Cl)cc1
+- O=S(Cl)Cl
+
+Products:
+- CCOc1ccc(C2(C(=O)Cl)CC2(Cl)Cl)cc1
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+1,3-dimethylxanthine is dissolved in a mixture of 250 ml of water and 750 ml of n-propanol by adding an equimolar quantity of sodium hydroxide and heating. An equivalent amount of 1,6-dibromohexane is quickly added to the solution and the mixture is boiled under reflux for 1 hour. After evaporation of the n-propanol, 7-(6-bromohexyl)-1,3-dimethylxanthine is isolated.
+
+Reactants:
+- BrCCCCCCBr
+- [Na+].[OH-]
+- Cn1c(=O)c2[nH]cnc2n(C)c1=O
+
+Products:
+- Cn1c(=O)c2c(ncn2CCCCCCBr)n(C)c1=O
+
+Catalysts:
+None
+
+Solvents:
+- O
+- CCCO
+
+================================================================================
+
+Experiment Description:
+6-Bromo-2-phenylhexanoic acid (16 g, 59 mmole) and triphenylphosphine (20 g, 76 mmole) were dissolved in acetonitrile (100 ml), and the solution was heated at 100° C. for 18 hours. After the completion of the reaction, the solution was cooled and the solvent removed under reduced pressure. The residue was washed three times with toluene, whereby crystals separated out. The crystals were recrystallized from ethyl acetate to give 5-carboxy-5-phenylpentyltriphenylphosphonium bromide (21 g, 67%, m.p. 210°-215° C.).
+
+Reactants:
+- O=C(O)C(CCCCBr)c1ccccc1
+- c1ccc(P(c2ccccc2)c2ccccc2)cc1
+
+Products:
+- O=C(O)C(CCCC[P+](c1ccccc1)(c1ccccc1)c1ccccc1)c1ccccc1.[Br-]
+
+Catalysts:
+None
+
+Solvents:
+- CC#N
+
+================================================================================
+
+Experiment Description:
+A solution of 0.53 g (0.002 mole) of 3-(3-methoxyphenyl)-5-(2-methylphenyl)-1H-1,2,4-triazole and 0.22 ml. (0.002 mole) of phenylisocyanate in 5 ml of acetonitrile was strred for 7 hours at room temperature and, subsequently, it was left standing overnight. The solvent was evaporated off and the obtained residue was firts taken up with hexane, then, after separating the liquid and the solid phase by decantation, it was recrystallized from acetonitrile. Yield: 0.25 g of the title compund. M.p. 123°-125° C. Δ δ=-0.18.
+
+Reactants:
+- O=C=Nc1ccccc1
+- COc1cccc(-c2n[nH]c(-c3ccccc3C)n2)c1
+
+Products:
+- COc1cccc(-c2nc(-c3ccccc3C)n(C(=O)Nc3ccccc3)n2)c1
+
+Catalysts:
+None
+
+Solvents:
+- CC#N
+
+================================================================================
+
+Experiment Description:
+Phenyl isocyanate (70 μL, 0.5 M in anhydrous DCM, 0.03 mmol, 1.1 equiv.) was added to a solution of TFA salt of 6-amino-4-{[4-chloro-3-(trifluoromethyl)benzyl]amino}quinazoline-8-carboxamide (16 mg, 0.03 mmol, 1.0 equiv.) and triethylamine (16 μL, 0.09 mmol, 3.0 equiv.) in anhydrous DCM (1 mL). The resulting mixture was stirred at 40° C. for 3 hrs. The title compound was obtained by pre-HPLC in 79% yield. Mass: M+H+: 515.
+
+Reactants:
+- O=C=Nc1ccccc1
+- O=C(O)C(F)(F)F
+- NC(=O)c1cc(N)cc2c(NCc3ccc(Cl)c(C(F)(F)F)c3)ncnc12
+- CCN(CC)CC
+
+Products:
+- NC(=O)c1cc(NC(=O)Nc2ccccc2)cc2c(NCc3ccc(Cl)c(C(F)(F)F)c3)ncnc12
+
+Catalysts:
+None
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+10 g of 4-n-heptyloxy-4'-biphenylcarboxylic acid and 50 ml of excess thionyl chloride were heated under reflux for 3 hours and thereafter unreacted thionyl chloride was distilled off to obtain 4-heptyloxy-4'-biphenylcarboxylic acid chloride.
+
+Reactants:
+- CCCCCCCOc1ccc(-c2ccc(C(=O)O)cc2)cc1
+- O=S(Cl)Cl
+
+Products:
+- CCCCCCCOc1ccc(-c2ccc(C(=O)Cl)cc2)cc1
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+2-[6-(tert-Butylthio)-2-pyridyl]-4H-1,3-benzothiazine-4-one (0.15 g, 0.46 mmol) was dissolved in chloroform (30 ml), and a solution of 3-chloroperbenzoic acid (ca. 77%, 0.10 g, 0.46 mmol) in chloroform (10 ml) was added dropwise thereto. The reaction mixture was stirred at room temperature for 1 hr. The solvent was evaporated, and the residue was recrystallized from ethanol to give the titled compound (0.12 g, 75%) as white crystals.
+
+Reactants:
+- CC(C)(C)Sc1cccc(-c2nc(=O)c3ccccc3s2)n1
+- O=C(OO)c1cccc(Cl)c1
+
+Products:
+- CC(C)(C)S(=O)c1cccc(-c2nc(=O)c3ccccc3s2)n1
+
+Catalysts:
+None
+
+Solvents:
+- ClC(Cl)Cl
+
+================================================================================
+
+Experiment Description:
+tert-Butyl [methyl(6-cyano-2-pyrimidinyl)amino]acetate (1.63 g, 6.56 mmol) and methyl thiosalicylate (3.31 g, 19.7 mmol) were dissolved in toluene (50 ml), and triethylamine (2.76 ml, 19.7 mmol) was added thereto. The mixture was refluxed for 18 hrs. The solvent was evaporated, and the residue was recrystallized from ethanol to give the titled compound (1.20 g, 39%) as pale yellow crystals.
+
+Reactants:
+- CN(CC(=O)OC(C)(C)C)c1nccc(C#N)n1
+- COC(=O)c1ccccc1S
+- CCN(CC)CC
+
+Products:
+- CN(CC(=O)OC(C)(C)C)c1nccc(-c2nc(=O)c3ccccc3s2)n1
+
+Catalysts:
+None
+
+Solvents:
+- Cc1ccccc1
+
+================================================================================
+
+Experiment Description:
+6-(1-Imidazoyl)nicotinic acid (21 mg, 0.11 mmol) and CDI (19 mg, 0.12 mmol) were dissolved in DMF (0.5 ml) and shaken for 1 h. Then 1-(4-chloro-3-ethoxy-benzyl)piperidin-4-ylamine (27 mg, 0.1 mmol) was added as a solution in DMF (0.5 ml) was added and the reaction stirred for 16 h, after which time the solvent was evaporated and the residue purified by reversed phase HPLC (MeCN:H2O) affording the title compound (18 mg, 41%). MS: 440.4 (MH+)
+
+Reactants:
+- O=C(O)c1ccc(C(=O)n2ccnc2)nc1
+- O=C(n1ccnc1)n1ccnc1
+- CN(C)C=O
+- CCOc1cc(CN2CCC(N)CC2)ccc1Cl
+
+Products:
+- CCOc1cc(CN2CCC(NC(=O)c3ccc(-n4ccnc4)nc3)CC2)ccc1Cl
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+To tert-butyl 3-(2-methoxy-2-oxoethoxy)-3-phenylpyrrolidine-1-carboxylate (160 mg, 0.00048 mol) was added 4 M of hydrogen chloride in 1,4-dioxane (1 mL) and the resulting solution was stirred for 1 h. The reaction mixture was then concentrated in-vacuo and the crude product was used directly in the next step.
+
+Reactants:
+- COC(=O)COC1(c2ccccc2)CCN(C(=O)OC(C)(C)C)C1
+- Cl
+
+Products:
+- COC(=O)COC1(c2ccccc2)CCNC1
+
+Catalysts:
+None
+
+Solvents:
+- C1COCCO1
+
+================================================================================
+
+Experiment Description:
+A solution of 4-(2-methoxymethyl-phenyl)-piperazine-1-carboxylic acid tert-butyl ester (prepared as described herein below) in dioxan was treated with 4 eq. of 4M HCl in dioxane and stirred at RT for 16 h. After neutralization, the mixture was completely evaporated to give the crude title compound.
+
+Reactants:
+- COCc1ccccc1N1CCN(C(=O)OC(C)(C)C)CC1
+- Cl
+
+Products:
+- COCc1ccccc1N1CCNCC1
+
+Catalysts:
+None
+
+Solvents:
+- C1COCCO1
+
+================================================================================
+
+Experiment Description:
+The mixture consisting of 1 g of 4-methoxy-3-hydroxymethylphenylsulfonamide, 0.66 g of dimethylformamide dimethyl acetal and 5 ml of dimethylformamide is stirred at 80° C. for one hour and then concentrated in vacuo. The residue is an oil which gradually solidifies and which is used without further purification for the following chlorination.
+
+Reactants:
+- COc1ccc(S(N)(=O)=O)cc1CO
+- COC(OC)N(C)C
+
+Products:
+- COc1ccc(S(=O)(=O)N=CN(C)C)cc1CO
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+1.58 g (10.0 mmol) of phenylphosphonic acid (manufactured by Nissan Chemical industries, Ltd.), 0.583 g (10.0 mmol) of magnesium hydroxide and 41 g of water were mixed, stirred at 80° C. for 3 hours, then water was distilled off under reduced pressure and dried at 200° C. to obtain 1.78 g (yield 99%) of the aimed product as white crystal. Decomposition temperature: 524° C.
+
+Reactants:
+- O=P(O)(O)c1ccccc1
+- [Mg+2].[OH-].[OH-]
+
+Products:
+- O=P([O-])([O-])c1ccccc1.[Mg+2]
+
+Catalysts:
+None
+
+Solvents:
+- O
+
+================================================================================
+
+Experiment Description:
+The above prepared 4-(2-ethoxycarbonyl-benzo[b]thiophen-6-yloxy)-piperidine-1-carboxylic acid tert-butyl ester (0.330 g, 0.814 mmol) was dissolved in 2 mL of dioxane and treated with HCl (4.1 mL of 4N [dioxane], 20 eq.) and the mixture kept at ambient temperature for 2 h. Reducing the volume, adding heptane, and direct crystallization produced 0.261 g of 6-(piperidin-4-yloxy)-benzo[b]thiophene-2-carboxylic acid ethyl ester as hydrochloride as white crystals, which was further processed as follows:
+
+Reactants:
+- Cl
+- CCOC(=O)c1cc2ccc(OC3CCN(C(=O)OC(C)(C)C)CC3)cc2s1
+
+Products:
+- CCOC(=O)c1cc2ccc(OC3CCNCC3)cc2s1
+
+Catalysts:
+None
+
+Solvents:
+- C1COCCO1
+
+================================================================================
+
+Experiment Description:
+To a solution of 4-chlorobenzylamine (0.50 g, 3.5 mmol) in toluene (15 mL) was added phosgene (7.3 mL, 14 mmol, 1.93 M solution in toluene). The resulting mixture was stirred at ambient temperature for 15 minutes, then heated to reflux. After 2 hours at reflux, the mixture was cooled to ambient temperature and concentrated in vacuo to afford 0.70 g (100% yield) of 4-chlorobenzylisocyanate, a compound of formula (Y), as a yellow liquid; NMR (CDCl3) 7.4-7.2 (m, 4), 4.4 (m, 2) ppm.
+
+Reactants:
+- NCc1ccc(Cl)cc1
+- O=C(Cl)Cl
+
+Products:
+- O=C=NCc1ccc(Cl)cc1
+
+Catalysts:
+None
+
+Solvents:
+- Cc1ccccc1
+
+================================================================================
+
+Experiment Description:
+5 g (22 mmol) of 2-(isopropoxycarbonyloxy)benzoic acid are dissolved in 50 ml of dichloromethane with a few drops of pyridine. 1.95 ml (27 mmol) of thionyl chloride are added dropwise and the mixture is stirred at ambient temperature for 18 h and then concentrated to dryness. 5.7 g of 2-(isopropoxycarbonyloxy)benzoyl chloride are obtained with a quantitative yield.
+
+Reactants:
+- O=S(Cl)Cl
+- CC(C)OC(=O)Oc1ccccc1C(=O)O
+
+Products:
+- CC(C)OC(=O)Oc1ccccc1C(=O)Cl
+
+Catalysts:
+- c1ccncc1
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+To a solution of 4,5-diamino-2-chloro-N-cyclopropylbenzamide (4.1 g, 18.2 mmol) in glacial acetic acid (50 ml) was added, at 0° C., methyl 2,2,2-trichloroacetimidate (2.21 ml, 18.2 mmol). The reaction mixture was stirred at room temperature for 16 h and then the solvent was removed under reduced pressure. The 6-chloro-N-cyclopropyl-2-(trichloromethyl)-1H-benzimidazole-5-carboxamide was used for Stage 4 directly without purification.
+
+Reactants:
+- Nc1cc(Cl)c(C(=O)NC2CC2)cc1N
+- COC(=N)C(Cl)(Cl)Cl
+
+Products:
+- O=C(NC1CC1)c1cc2nc(C(Cl)(Cl)Cl)[nH]c2cc1Cl
+
+Catalysts:
+None
+
+Solvents:
+- CC(=O)O
+
+================================================================================
+
+Experiment Description:
+To a solution of (cis)-2,6-dimethylmorpholine (104 mg, 0.900 mmol, Alfa Aesar, Ward Hill, USA) in methanol (3 mL) was added formaldehyde (37% aqueous) (0.067 mL, 0.900 mmol). The reaction mixture was shaken at room temperature for 2 hours. To the reaction mixture was added 4-chlorophenyl isocyanide (138 mg, 1 mmol) and trimethylsilylazide (0.133 mL, 1.00 mmol). The reaction mixture was shaken at room temperature for a further 18 hours.
+
+Reactants:
+- [C-]#[N+]c1ccc(Cl)cc1
+- C[Si](C)(C)N=[N+]=[N-]
+- C[C@@H]1CNC[C@H](C)O1
+- C=O
+
+Products:
+- C[C@@H]1CN(Cc2nnnn2-c2ccc(Cl)cc2)C[C@H](C)O1
+
+Catalysts:
+None
+
+Solvents:
+- CO
+
+================================================================================
+
+Experiment Description:
+A solution of 2.78 g (0.01 mol) of 2-hydroxy-3-[3-(1-piperidylmethyl)benzyloxy]propylamine in 10 ml of ethanol is added dropwise over a period of 30 minutes to a solution of 1.90 g (0.01 mol) of 3,4-diethoxy-1,2,5-thiadiazole-1-oxide in 10 ml of ethanol and the mixture is stirred at room temperature for 4 hours. The title compound obtained after concentration of the reaction solution by evaporation is reacted without further purification.
+
+Reactants:
+- NCC(O)COCc1cccc(CN2CCCCC2)c1
+- CCOC1=NS(=O)N=C1OCC
+
+Products:
+- CCOC1=NS(=O)N=C1NCC(O)COCc1cccc(CN2CCCCC2)c1
+
+Catalysts:
+None
+
+Solvents:
+- CCO
+
+================================================================================
+
+Experiment Description:
+6-(4-Fluorophenyl)-2-methyl-3-pyridinecarboxylic acid (0.2 g, 0.866 mol) was suspended in DCM (14 mL) and DMF (1 drop) was added. The mixture was cooled in an ice-bath and oxalyl chloride (0.226 mL, 2.598 mmol) was added portion wise over 5 minutes. The mixture was heated to 40° C. for 90 minutes. The mixture was allowed to cool and the solvent removed under vacuum to give 6-(4-fluorophenyl)-2-methyl-3-pyridinecarbonyl chloride as a yellow solid (0.270 g) which was used directly in step 2.
+
+Reactants:
+- O=C(Cl)C(=O)Cl
+- Cc1nc(-c2ccc(F)cc2)ccc1C(=O)O
+
+Products:
+- Cc1nc(-c2ccc(F)cc2)ccc1C(=O)Cl
+
+Catalysts:
+- CN(C)C=O
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+Sodium hydride (24.22 mg, 0.606 mmol, 60% suspension in mineral oil) was added to a solution of 4-bromo-1H-pyrazole (89 mg, 0.606 mmol) in DMF (3028 μl) at RT. After 15 min, 1-bromo-2-fluoroethane (100 mg, 0.787 mmol) was added to the mixture. After 30 min, the mixture was diluted with DMF and purified by HPLC, followed by neutralization (K2CO3), to afford the title compound as a colorless oil.
+
+Reactants:
+- FCCBr
+- [H-].[Na+]
+- Brc1cn[nH]c1
+
+Products:
+- FCCn1cc(Br)cn1
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+
+Experiment Description:
+Potassium cyanate (31 mg, 0.384 mmol) was added to a solution of tert-butyl 4-[(2-ethoxy-2-oxoethyl)amino]piperidine-1-carboxylate (100 mg, 0.384 mmol) in water (2 mL). Acetic acid was then added to adjust pH of reaction to 4-5 and the mixture was heated at 40° C. After 16 h, the reaction was cooled to ambient temperature and purified by reverse phase HPLC (C-18, 95% water/acetonitrile→5% water/acetonitrile with 0.1% trifluoroacetic acid) to give the title compound (33 mg).
+
+Reactants:
+- CC(=O)O
+- N#C[O-].[K+]
+- CCOC(=O)CNC1CCN(C(=O)OC(C)(C)C)CC1
+
+Products:
+- CC(C)(C)OC(=O)N1CCC(N2CC(=O)NC2=O)CC1
+
+Catalysts:
+None
+
+Solvents:
+- O
+
+================================================================================
+
+Experiment Description:
+Trifluoroacetic acid (0.300 mL) was added to a solution of tert-butyl 4-(2,4-dioxoimidazolidin-1-yl)piperidine-1-carboxylate (32 mg, 0.113 mmol) in dichloromethane (1 mL). After 4 h, the reaction was concentrated to give the title compound. MS: m/z=184.04 (M+1).
+
+Reactants:
+- O=C(O)C(F)(F)F
+- CC(C)(C)OC(=O)N1CCC(N2CC(=O)NC2=O)CC1
+
+Products:
+- O=C1CN(C2CCNCC2)C(=O)N1
+
+Catalysts:
+None
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+40 g (312 mmol) of 2-octanone and 41.23 g (312 mmol) of tert-butyl carbazate are refluxed for 2 hours in 350 ml of cyclohexane. The solvent and water are removed in vacuo. This gives 74.10 g (98%) of a waxy solid.
+
+Reactants:
+- CCCCCCC(C)=O
+- CC(C)(C)OC(=O)NN
+
+Products:
+- CCCCCCC(C)=NNC(=O)OC(C)(C)C
+
+Catalysts:
+None
+
+Solvents:
+- C1CCCCC1
+
+================================================================================
+
+Experiment Description:
+To a solution of 0.72 g (8.56 mmol) of NaHCO3 and 1.08 g (8.56 mmol) of Na2SO3 (4.6 mmol) in water (4.5 mL) are added 1 g (4.28 mmol) of 1,3-benzothiazol-6-sulfonyl chloride. The reaction is heated at 80° C. for 2 h. The solvent is removed under reduced pressure. The filtrate is concentrated under reduced pressure to give 1,3-benzothiazol-6-sulfinic acid sodium salt.
+
+Reactants:
+- O=C([O-])O.[Na+]
+- O=S([O-])[O-].[Na+].[Na+]
+- O=S(=O)(Cl)c1ccc2ncsc2c1
+
+Products:
+- O=S([O-])c1ccc2ncsc2c1.[Na+]
+
+Catalysts:
+None
+
+Solvents:
+- O
+
+================================================================================
+
+Experiment Description:
+To the mixture of 6-chlorooxindole (16.7 g, 0.1 mol) (Crescent) and 3-chlorobenzaldehyde (14.1 g, 0.1 mol) (Aldrich) in methanol (100 mL) was added pyrrolidine (7.1 g, 0.1 mol) (Aldrich) dropwisely. The mixture was then heated at 70° C. for 3 h. After cooling to 4° C., the resulting precipitate was collected and dried to give 20 g of E/Z-6-chloro-3-(3-chloro-benzylidene)-1,3-dihydro-indol-2-one as a bright yellow solid. MS: 291 (M+H)+.
+
+Reactants:
+- O=C1Cc2ccc(Cl)cc2N1
+- O=Cc1cccc(Cl)c1
+- C1CCNC1
+
+Products:
+- O=C1Nc2cc(Cl)ccc2/C1=C/c1cccc(Cl)c1
+
+Catalysts:
+None
+
+Solvents:
+- CO
+
+================================================================================
+
+Experiment Description:
+To a suspension of 4-bromo-2-methoxybenzoic acid (2.5 g, 11.04 mmol) in CHCl3 (20 mL) was added DMF (catalytic) and thionyl chloride (1.6 mL, 22.08 mmol). The reaction was stirred at 55° C. for 1 hour and then concentrated to dryness to give the title compound.
+
+Reactants:
+- CN(C)C=O
+- O=S(Cl)Cl
+- COc1cc(Br)ccc1C(=O)O
+
+Products:
+- COc1cc(Br)ccc1C(=O)Cl
+
+Catalysts:
+None
+
+Solvents:
+- ClC(Cl)Cl
+
+================================================================================
+
+Experiment Description:
+A solution of ethyl 3,3-dimethylacrylate (19.3 g, 0.151 mol) in EtOH (150 mL) was added benzylamine (16.2 g, 0.151 mol) and refluxed for 24 h. The reaction mixture was concentrated in vacuo. The distillation of the residue gave ethyl 3-benzylamino-3-methylbutyrate as a colorless oil (7.48 g, 21%).
+
+Reactants:
+- CCOC(=O)C=C(C)C
+- NCc1ccccc1
+
+Products:
+- CCOC(=O)CC(C)(C)NCc1ccccc1
+
+Catalysts:
+None
+
+Solvents:
+- CCO
+
+================================================================================
+
+Experiment Description:
+3-Methylbutyl nitrate was dissolved in a tetrahydrofuran solution of ethyl 4-amino-3-(3-cyano-4-methoxyphenyl)isothiazole-5-carboxylate, followed by heating under reflux for 5 hours to obtain ethyl 3-(3-cyano-4-methoxyphenyl)isothiazole-5-carboxylate. AP: 311.
+
+Reactants:
+- CC(C)CCO[N+](=O)[O-]
+- CCOC(=O)c1snc(-c2ccc(OC)c(C#N)c2)c1N
+
+Products:
+- CCOC(=O)c1cc(-c2ccc(OC)c(C#N)c2)ns1
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+To a solution of 2-(3-benzyloxy-5-trifluoromethyl-phenyl)-propionic acid (1.4 g, 4.0 mmol) in CH2Cl2 was added oxalyl chloride (0.76 mL, 8.0 mmol), followed by 3 drops of DMF. After stirring for 15 minutes at room temperature, the mixture was concentrated to give the title compound.
+
+Reactants:
+- CC(C(=O)O)c1cc(OCc2ccccc2)cc(C(F)(F)F)c1
+- O=C(Cl)C(=O)Cl
+
+Products:
+- CC(C(=O)Cl)c1cc(OCc2ccccc2)cc(C(F)(F)F)c1
+
+Catalysts:
+- CN(C)C=O
+
+Solvents:
+- ClCCl
+
+================================================================================
+
+Experiment Description:
+To a solution of methyl 2-(5-(methylsulfonamido)-2-oxoindolin-1-yl)acetate (0.133 g, 0.446 mmol) in dioxane (5 ml), 12M HCl (4 ml, 48.0 mmol) was added, and the mixture was stirred at room temperature for 24 hours. The volatiles fractions were evaporated and the residue was dried under vacuum. Crude of 2-(5-(methylsulfonamido)-2-oxoindolin-1-yl)acetic acid (0.130 g, 0.446 mmol, 100% yield) was used for the next step without any further purification. MS/ESI+ 284.9 [MH]+.
+
+Reactants:
+- COC(=O)CN1C(=O)Cc2cc(NS(C)(=O)=O)ccc21
+- Cl
+
+Products:
+- CS(=O)(=O)Nc1ccc2c(c1)CC(=O)N2CC(=O)O
+
+Catalysts:
+None
+
+Solvents:
+- C1COCCO1
+
+================================================================================
+
+Experiment Description:
+1 gram of 1,3-diethyl-8-hydroxymethylxanthine was added to an excess (3 grams) of thionyl chloride and the mixture was refluxed for 1 hour. The excess thionyl chloride was evaporated and the resulting residue was crystallized from hexane, to yield 1,3-diethyl-8-chloromethylxanthine (0.8 gram).
+
+Reactants:
+- CCn1c(=O)c2[nH]c(CO)nc2n(CC)c1=O
+- O=S(Cl)Cl
+
+Products:
+- CCn1c(=O)c2[nH]c(CCl)nc2n(CC)c1=O
+
+Catalysts:
+None
+
+Solvents:
+None
+
+================================================================================
+
+Experiment Description:
+To 0.35 g (0.75 mmol) of di-tert-butyl (4S)—N-(tert-butoxycarbonyl)-4-(4-hydroxybenzyl)-L-glutamate were added 10 mL of trifluoro acetic acid and the solution was stirred for 2 days at room temperature. The excess of trifluoro acetic acid was evaporated and the residue was taken up three times in tetrahydrofuran and then evaporated. The resulting oil was chromatographed on C-18 reversed phase silica gel using a water/acetonitrile gradient, the appropriate fractions were combined and concentrated.
+
+Reactants:
+- CC(C)(C)OC(=O)N[C@@H](C[C@H](Cc1ccc(O)cc1)C(=O)OC(C)(C)C)C(=O)OC(C)(C)C
+
+Products:
+- N[C@@H](C[C@H](Cc1ccc(O)cc1)C(=O)O)C(=O)O
+
+Catalysts:
+None
+
+Solvents:
+- O=C(O)C(F)(F)F
+
+================================================================================
+
+Experiment Description:
+Ethyl 2-amino-2-thioxoacetate (5) (5 g, 37.5 mmol) was dissolved in ethanol and cooled to 0° C. Hydrazine in THF (1M, 37.5 mmol) was added dropwise and stirred at ambient temperature for 1 h. The reaction mixture was concentrated, white flakes of ethyl 2-amino-2-hydrazonoacetate were obtained.
+
+Reactants:
+- NN
+- C1CCOC1
+- CCOC(=O)C(N)=S
+
+Products:
+- CCOC(=O)C(N)=NN
+
+Catalysts:
+None
+
+Solvents:
+- CCO
+
+================================================================================
+
+Experiment Description:
+5 G. of 2-amino-4-chloro-1-nitrobenzene is added to a solution of sodium phenyl mercaptide, prepared under nitrogen from 2.53 g. 57% sodium hydride and 6.2 ml. thiophenol in 20 ml. dimethylformamide, with a 10 ml. dimethylformamide rinse. The mixture is stirred under nitrogen for 3 hours at 20°-30° C and then diluted with water. The crude product is washed with water and hexane, then recrystallized from methanol, yielding 2-amino-4-phenylthio-1-nitrobenzene.
+
+Reactants:
+- Sc1ccccc1
+- Nc1cc(Cl)ccc1[N+](=O)[O-]
+- [Na+].[S-]c1ccccc1
+- [H-].[Na+]
+
+Products:
+- Nc1cc(Sc2ccccc2)ccc1[N+](=O)[O-]
+
+Catalysts:
+None
+
+Solvents:
+- CN(C)C=O
+
+================================================================================
+

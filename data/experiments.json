@@ -1,0 +1,652 @@
+
+{
+  "batch_name": "Chemistry Lab Experiments Batch 1",
+  "description": "A collection of 100 chemistry laboratory experiments",
+  "experiments": [
+    {
+      "id": "exp_001",
+      "name": "Synthesis of Ethyl 2-(2-methyl-3,4,6-trifluorobenzoyl)-3-ethoxyacrylate",
+      "description": "Synthesis of Ethyl 2-(2-methyl-3,4,6-trifluorobenzoyl)-3-ethoxyacrylate: Condensation of ethyl 2-methyl-3,4,6-trifluorobenzoylacetate with acetic anhydride and triethoxymethane."
+    },
+    {
+      "id": "exp_002",
+      "name": "Preparation of 4-[(4-pyridyl)piperazin-1-yl]benzoyl chloride",
+      "description": "Preparation of 4-[(4-pyridyl)piperazin-1-yl]benzoyl chloride: Conversion of the carboxylic acid to the acid chloride using oxalyl chloride."
+    },
+    {
+      "id": "exp_003",
+      "name": "Deprotection of a Pyrrolidone Derivative",
+      "description": "Deprotection of a Pyrrolidone Derivative: Removal of the tert-butyl ester group using trifluoroacetic acid ."
+    },
+    {
+      "id": "exp_004",
+      "name": "Synthesis of a Piperazinyl-Quinoline Derivative",
+      "description": "Synthesis of a Piperazinyl-Quinoline Derivative: Alkylation of a piperazine derivative followed by reduction with sodium borohydride ."
+    },
+    {
+      "id": "exp_005",
+      "name": "Nucleophilic Substitution on a Benzoxazole Derivative",
+      "description": "Nucleophilic Substitution on a Benzoxazole Derivative: Reaction of a chlorobenzoxazole derivative with (3S)-3-(dimethylamino)pyrrolidine."
+    },
+    {
+      "id": "exp_006",
+      "name": "Synthesis of a Thiourea Derivative",
+      "description": "Synthesis of a Thiourea Derivative: Reaction of 5-(5,6-difluoro-1H-indol-2-yl)-2-methoxy-phenylamine with 3-isothiocyanatopyridine."
+    },
+    {
+      "id": "exp_007",
+      "name": "Synthesis of 3-(4-acetyloxyphenyl)glutaric anhydride",
+      "description": "Synthesis of 3-(4-acetyloxyphenyl)glutaric anhydride: Cyclization of 3-(4-hydroxyphenyl)glutaric acid using acetic anhydride."
+    },
+    {
+      "id": "exp_008",
+      "name": "Alkylation of Diethyl Acetamidomalonate",
+      "description": "Alkylation of Diethyl Acetamidomalonate: Reaction with bis(4-fluorophenyl)methylene chloride using sodium hydride ."
+    },
+    {
+      "id": "exp_009",
+      "name": "Preparation of p-Chlorocinnamoyl Chloride",
+      "description": "Preparation of p-Chlorocinnamoyl Chloride: Reaction of p-chlorocinnamic acid with thionyl chloride ."
+    },
+    {
+      "id": "exp_010",
+      "name": "Chlorination of a Triazolyl-Benzyl Alcohol",
+      "description": "Chlorination of a Triazolyl-Benzyl Alcohol: Conversion of (2-methyl-5-(2H-1,2,3-triazol-2-yl)phenyl)methanol to the chloride using thionyl chloride ."
+    },
+    {
+      "id": "exp_011",
+      "name": "Synthesis of a Thiazole Derivative",
+      "description": "Synthesis of a Thiazole Derivative: Hantzsch-like cyclization between thiobenzamide and a bromoacetyl derivative ."
+    },
+    {
+      "id": "exp_012",
+      "name": "Boc Deprotection of a Piperazine Derivative",
+      "description": "Boc Deprotection of a Piperazine Derivative: Removal of the Boc group using HCl in dioxane."
+    },
+    {
+      "id": "exp_013",
+      "name": "Synthesis of N-((2-cyclopropylphenyl)carbamothioyl)benzamide",
+      "description": "Synthesis of N-((2-cyclopropylphenyl)carbamothioyl)benzamide: Reaction of 2-cyclopropylaniline with benzoyl isothiocyanate."
+    },
+    {
+      "id": "exp_014",
+      "name": "Reduction of an Indazolone",
+      "description": "Reduction of an Indazolone: Reduction of 1-methyl-6,7-dihydro-1H-indazol-4(5H)-one to the alcohol using sodium borohydride ."
+    },
+    {
+      "id": "exp_015",
+      "name": "Preparation of Ethyl 4-(chloromethyl)-1,2,5-trimethylpyrrole-3-carboxylate",
+      "description": "Preparation of Ethyl 4-(chloromethyl)-1,2,5-trimethylpyrrole-3-carboxylate: Conversion of the hydroxymethyl group to chloromethyl using thionyl chloride."
+    },
+    {
+      "id": "exp_016",
+      "name": "Methylation of a Cephalosporin Derivative",
+      "description": "Methylation of a Cephalosporin Derivative: Reaction with diazomethane to synthesize methyl 3-methoxy-7-phthalimido-3-cephem-4-carboxylate ."
+    },
+    {
+      "id": "exp_017",
+      "name": "Synthesis of 2,6-Diphenyl-2H-pyrazolo[3,4-b]pyridin-4-ol",
+      "description": "Synthesis of 2,6-Diphenyl-2H-pyrazolo[3,4-b]pyridin-4-ol: Thermal cyclization of 1,5-diphenylpyrazolo[1,5-a]pyrimidin7(1H)-one in diphenyl ether ."
+    },
+    {
+      "id": "exp_018",
+      "name": "Preparation of 2-Methoxy-4-(1-Boc-4-piperidyloxy)benzoyl chloride",
+      "description": "Preparation of 2-Methoxy-4-(1-Boc-4-piperidyloxy)benzoyl chloride: Reaction of the carboxylic acid with thionyl chloride ."
+    },
+    {
+      "id": "exp_019",
+      "name": "Synthesis of 1-n-Heptyl-3-n-octylthiourea",
+      "description": "Synthesis of 1-n-Heptyl-3-n-octylthiourea: Reaction of n-heptylisothiocyanate with n-octylamine ."
+    },
+    {
+      "id": "exp_020",
+      "name": "Synthesis of 1-Ethyl-3-benzyl thiourea",
+      "description": "Synthesis of 1-Ethyl-3-benzyl thiourea: Reaction of ethyl isothiocyanate with benzylamine ."
+    },
+    {
+      "id": "exp_021",
+      "name": "Preparation of (Phenylthio)acetyl Chloride",
+      "description": "Preparation of (Phenylthio)acetyl Chloride: Reaction of (phenylthio)acetic acid with oxalyl chloride."
+    },
+    {
+      "id": "exp_022",
+      "name": "Methylation of a Thiazolopyridine",
+      "description": "Methylation of a Thiazolopyridine: Reaction of 2-methylthiothiazolo[4,5-b]pyridine with methyl tosylate ."
+    },
+    {
+      "id": "exp_023",
+      "name": "Preparation of an Oxime Derivative",
+      "description": "Preparation of an Oxime Derivative: Reaction of ethyl (1-azabicyclo[2.2.2]octan-3-yl)cyanoacetate with isoamylnitrite ."
+    },
+    {
+      "id": "exp_024",
+      "name": "Synthesis of 3,4-Bis(4-ethyl-1-piperazinyl)-3-cyclobutene-1,2-dione",
+      "description": "Synthesis of 3,4-Bis(4-ethyl-1-piperazinyl)-3-cyclobutene-1,2-dione: Substitution reaction of a squarate derivative with 1-ethylpiperazine ."
+    },
+    {
+      "id": "exp_025",
+      "name": "Regioselective Alkylation of Uridine",
+      "description": "Regioselective Alkylation of Uridine: Reaction of 2',3'-O-dibutylstannylene uridine with iodopropane."
+    },
+    {
+      "id": "exp_026",
+      "name": "Fmoc Deprotection",
+      "description": "Fmoc Deprotection: Removal of the Fmoc group from a peptide intermediate using piperidine."
+    },
+    {
+      "id": "exp_027",
+      "name": "Preparation of 3-Nitrobenzoyl Chloride",
+      "description": "Preparation of 3-Nitrobenzoyl Chloride: Reaction of 3-nitrobenzoic acid with oxalyl chloride ."
+    },
+    {
+      "id": "exp_028",
+      "name": "Preparation of Cyclohexaneacetyl Chloride",
+      "description": "Preparation of Cyclohexaneacetyl Chloride: Reaction of cyclohexaneacetic acid with oxalyl chloride."
+    },
+    {
+      "id": "exp_029",
+      "name": "Synthesis of Crotonaldehyde Nicotinoyl Hydrazone",
+      "description": "Synthesis of Crotonaldehyde Nicotinoyl Hydrazone: Condensation of nicotinic acid hydrazide with crotonaldehyde ."
+    },
+    {
+      "id": "exp_030",
+      "name": "Urea Synthesis",
+      "description": "Urea Synthesis: Reaction of a pyrrolidine amine derivative with isopropyl isocyanate."
+    },
+    {
+      "id": "exp_031",
+      "name": "Synthesis of N-Formyl Aspartic Anhydride",
+      "description": "Synthesis of N-Formyl Aspartic Anhydride: Reaction of L-aspartic acid with formic acid and acetic anhydride ."
+    },
+    {
+      "id": "exp_032",
+      "name": "Hydrolysis of a Nitrile to an Amide",
+      "description": "Hydrolysis of a Nitrile to an Amide: Reaction of a pyrazine nitrile with hydrogen peroxide and sodium hydroxide ."
+    },
+    {
+      "id": "exp_033",
+      "name": "Hydrolysis of Ethyl 2-(pyrimidin-2-yl)acetate",
+      "description": "Hydrolysis of Ethyl 2-(pyrimidin-2-yl)acetate: Basic hydrolysis to form the carboxylic acid ."
+    },
+    {
+      "id": "exp_034",
+      "name": "Preparation of 1-Phenyl-1H-[1,2,4]-triazole-3-carbonyl Chloride",
+      "description": "Preparation of 1-Phenyl-1H-[1,2,4]-triazole-3-carbonyl Chloride: Reaction of the carboxylic acid with thionyl chloride."
+    },
+    {
+      "id": "exp_035",
+      "name": "Deprotection and Cyclization of an Indole Derivative",
+      "description": "Deprotection and Cyclization of an Indole Derivative: Treatment with hydrochloric acid to form the title compound ."
+    },
+    {
+      "id": "exp_036",
+      "name": "N-Formylation Reaction",
+      "description": "N-Formylation Reaction: Reaction of an aminopyrazole derivative with ethyl formate."
+    },
+    {
+      "id": "exp_037",
+      "name": "Preparation of Ethylphenylphosphinic Chloride",
+      "description": "Preparation of Ethylphenylphosphinic Chloride: Reaction of ethyl ethylphenylphosphinate with oxalyl chloride ."
+    },
+    {
+      "id": "exp_038",
+      "name": "Preparation of 6-Morpholinonicotinoyl Chloride",
+      "description": "Preparation of 6-Morpholinonicotinoyl Chloride: Reaction of the carboxylic acid with oxalyl chloride ."
+    },
+    {
+      "id": "exp_039",
+      "name": "Chlorination of a Pyrazole Ring",
+      "description": "Chlorination of a Pyrazole Ring: Reaction of a pyrazole derivative with sulfuryl chloride."
+    },
+    {
+      "id": "exp_040",
+      "name": "Synthesis of a Benzoxazine Derivative",
+      "description": "Synthesis of a Benzoxazine Derivative: Mannich-type reaction of an isoflavene with p-toluidine and formaldehyde ."
+    },
+    {
+      "id": "exp_041",
+      "name": "Preparation of 3-Cyano-5-cyclobutyl-4-methoxybenzoyl Chloride",
+      "description": "Preparation of 3-Cyano-5-cyclobutyl-4-methoxybenzoyl Chloride: Reaction of the carboxylic acid with thionyl chloride."
+    },
+    {
+      "id": "exp_042",
+      "name": "Preparation of 3-Cyano-5-ethyl-4-methoxybenzoyl Chloride",
+      "description": "Preparation of 3-Cyano-5-ethyl-4-methoxybenzoyl Chloride: Reaction of the carboxylic acid with thionyl chloride."
+    },
+    {
+      "id": "exp_043",
+      "name": "Preparation of 4-Methoxy-3-methylsulfanyl-5-trifluoromethylbenzoyl Chloride",
+      "description": "Preparation of 4-Methoxy-3-methylsulfanyl-5-trifluoromethylbenzoyl Chloride: Reaction of the carboxylic acid with thionyl chloride."
+    },
+    {
+      "id": "exp_044",
+      "name": "Preparation of 4-Benzyloxy-3-methoxy-5-trifluoromethylbenzoyl Chloride",
+      "description": "Preparation of 4-Benzyloxy-3-methoxy-5-trifluoromethylbenzoyl Chloride: Reaction of the carboxylic acid with thionyl chloride."
+    },
+    {
+      "id": "exp_045",
+      "name": "Preparation of 4-Benzyloxy-3-chloro-5-methoxybenzoyl Chloride",
+      "description": "Preparation of 4-Benzyloxy-3-chloro-5-methoxybenzoyl Chloride: Reaction of the carboxylic acid with thionyl chloride."
+    },
+    {
+      "id": "exp_046",
+      "name": "Preparation of Bis(nonafluorobutyl)phosphinyl Chloride",
+      "description": "Preparation of Bis(nonafluorobutyl)phosphinyl Chloride: Reaction of the phosphinic acid with phenyltetrachlorophosphorane."
+    },
+    {
+      "id": "exp_047",
+      "name": "Boc Deprotection of Benzyl-methyl-piperidin-4-yl-amine",
+      "description": "Boc Deprotection of Benzyl-methyl-piperidin-4-yl-amine: Treatment with HCl in ether."
+    },
+    {
+      "id": "exp_048",
+      "name": "Preparation of 2,3-Dihydro-benzo[b]oxepine-4-carbonyl Chloride",
+      "description": "Preparation of 2,3-Dihydro-benzo[b]oxepine-4-carbonyl Chloride: Reaction of the carboxylic acid with thionyl chloride ."
+    },
+    {
+      "id": "exp_049",
+      "name": "Preparation of an Indenylacetyl Chloride Derivative",
+      "description": "Preparation of an Indenylacetyl Chloride Derivative: Reaction of the carboxylic acid with oxalyl chloride ."
+    },
+    {
+      "id": "exp_050",
+      "name": "Biginelli Reaction",
+      "description": "Biginelli Reaction: Synthesis of a dihydropyrimidinone derivative from a ketone, aldehyde, and urea ."
+    },
+    {
+      "id": "exp_051",
+      "name": "Synthesis of a Diarylurea",
+      "description": "Synthesis of a Diarylurea: Reaction of a pyrazolyl-aniline with 4-chlorophenylisocyanate ."
+    },
+    {
+      "id": "exp_052",
+      "name": "Boc Deprotection of a Hydrazine Derivative",
+      "description": "Boc Deprotection of a Hydrazine Derivative: Acidic treatment of a benzoylhydrazinecarboxylate."
+    },
+    {
+      "id": "exp_053",
+      "name": "Synthesis of an Unsaturated Ester",
+      "description": "Synthesis of an Unsaturated Ester: TFA treatment of a hydroxy-ester precursor."
+    },
+    {
+      "id": "exp_054",
+      "name": "Synthesis of 2-Chloro-4-methyl-5-nitropyridine",
+      "description": "Synthesis of 2-Chloro-4-methyl-5-nitropyridine: Reaction of 2-hydroxy-4-methyl-5-nitropyridine with phosphorus oxychloride."
+    },
+    {
+      "id": "exp_055",
+      "name": "Synthesis of a 4-Azaindole Derivative",
+      "description": "Synthesis of a 4-Azaindole Derivative: Cyclization of a pyridine alkyne derivative using sodium ethoxide."
+    },
+    {
+      "id": "exp_056",
+      "name": "Preparation of 5-(2-Chloroethyl)-thiazol-2-ylamine",
+      "description": "Preparation of 5-(2-Chloroethyl)-thiazol-2-ylamine: Reaction of the alcohol with thionyl chloride ."
+    },
+    {
+      "id": "exp_057",
+      "name": "Hydrolysis of an Acetate Ester",
+      "description": "Hydrolysis of an Acetate Ester: Basic methanolysis of an isoquinoline propyl acetate derivative."
+    },
+    {
+      "id": "exp_058",
+      "name": "Preparation of 3-Fluoro-5-cyanobenzoyl Chloride",
+      "description": "Preparation of 3-Fluoro-5-cyanobenzoyl Chloride: Reaction of the carboxylic acid with oxalyl chloride ."
+    },
+    {
+      "id": "exp_059",
+      "name": "Preparation of 3-Chloro-5-fluorobenzoyl Chloride",
+      "description": "Preparation of 3-Chloro-5-fluorobenzoyl Chloride: Reaction of the carboxylic acid with oxalyl chloride ."
+    },
+    {
+      "id": "exp_060",
+      "name": "Preparation of 5-Chloro-2-methoxybenzoyl Chloride",
+      "description": "Preparation of 5-Chloro-2-methoxybenzoyl Chloride: Reaction of the carboxylic acid with oxalyl chloride ."
+    },
+    {
+      "id": "exp_061",
+      "name": "Preparation of 2,3-Dimethoxybenzoyl Chloride",
+      "description": "Preparation of 2,3-Dimethoxybenzoyl Chloride: Reaction of the carboxylic acid with oxalyl chloride ."
+    },
+    {
+      "id": "exp_062",
+      "name": "Preparation of 2-Chloro-5-methylthiobenzoyl Chloride",
+      "description": "Preparation of 2-Chloro-5-methylthiobenzoyl Chloride: Reaction of the carboxylic acid with oxalyl chloride ."
+    },
+    {
+      "id": "exp_063",
+      "name": "Preparation of p-Chloromethylphenylacetyl Chloride",
+      "description": "Preparation of p-Chloromethylphenylacetyl Chloride: Reaction of the carboxylic acid with thionyl chloride."
+    },
+    {
+      "id": "exp_064",
+      "name": "Hydrolysis of Ethyl α,α-dimethyl-3-pyridylacetate",
+      "description": "Hydrolysis of Ethyl α,α-dimethyl-3-pyridylacetate: Basic hydrolysis using LiOH to form the acid ."
+    },
+    {
+      "id": "exp_065",
+      "name": "Steglich Esterification",
+      "description": "Steglich Esterification: Synthesis of a glycine ester derivative using dicyclohexylcarbodiimide."
+    },
+    {
+      "id": "exp_066",
+      "name": "Preparation of 1-p-Ethoxyphenyl-2,2-dichlorocyclopropane-1-carbonyl Chloride",
+      "description": "Preparation of 1-p-Ethoxyphenyl-2,2-dichlorocyclopropane-1-carbonyl Chloride: Reaction of the carboxylic acid with thionyl chloride."
+    },
+    {
+      "id": "exp_067",
+      "name": "Synthesis of 7-(6-Bromohexyl)-1,3-dimethylxanthine",
+      "description": "Synthesis of 7-(6-Bromohexyl)-1,3-dimethylxanthine: Alkylation of 1,3-dimethylxanthine with 1,6-dibromohexane."
+    },
+    {
+      "id": "exp_068",
+      "name": "Preparation of a Phosphonium Salt",
+      "description": "Preparation of a Phosphonium Salt: Reaction of 6-bromo-2-phenylhexanoic acid with triphenylphosphine ."
+    },
+    {
+      "id": "exp_069",
+      "name": "Urea Synthesis",
+      "description": "Urea Synthesis: Reaction of a triazole derivative with phenyl isocyanate ."
+    },
+    {
+      "id": "exp_070",
+      "name": "Urea Synthesis (Quinazoline)",
+      "description": "Urea Synthesis (Quinazoline): Reaction of an aminoquinazoline with phenyl isocyanate ."
+    },
+    {
+      "id": "exp_071",
+      "name": "Preparation of 4-Heptyloxy-4'-biphenylcarboxylic Acid Chloride",
+      "description": "Preparation of 4-Heptyloxy-4'-biphenylcarboxylic Acid Chloride: Reaction of the carboxylic acid with thionyl chloride."
+    },
+    {
+      "id": "exp_072",
+      "name": "Oxidation of a Sulfide to Sulfoxide",
+      "description": "Oxidation of a Sulfide to Sulfoxide: Reaction of a benzothiazine sulfide with m-chloroperbenzoic acid ."
+    },
+    {
+      "id": "exp_073",
+      "name": "Synthesis of a Benzothiazine Derivative",
+      "description": "Synthesis of a Benzothiazine Derivative: Reaction of an aminopyrimidine with methyl thiosalicylate."
+    },
+    {
+      "id": "exp_074",
+      "name": "Amide Coupling",
+      "description": "Amide Coupling: Reaction of 6-(1-imidazoyl)nicotinic acid with an amine using CDI."
+    },
+    {
+      "id": "exp_075",
+      "name": "Boc Deprotection of a Pyrrolidine Derivative",
+      "description": "Boc Deprotection of a Pyrrolidine Derivative: Treatment with HCl in dioxane."
+    },
+    {
+      "id": "exp_076",
+      "name": "Boc Deprotection of a Piperazine Derivative",
+      "description": "Boc Deprotection of a Piperazine Derivative: Treatment with HCl in dioxane ."
+    },
+    {
+      "id": "exp_077",
+      "name": "Protection of a Sulfonamide",
+      "description": "Protection of a Sulfonamide: Reaction with dimethylformamide dimethyl acetal."
+    },
+    {
+      "id": "exp_078",
+      "name": "Preparation of Phenylphosphonic Acid Magnesium Salt",
+      "description": "Preparation of Phenylphosphonic Acid Magnesium Salt: Reaction of phenylphosphonic acid with magnesium hydroxide."
+    },
+    {
+      "id": "exp_079",
+      "name": "Boc Deprotection and Salt Formation",
+      "description": "Boc Deprotection and Salt Formation: Preparation of 6-(piperidin-4-yloxy)-benzo[b]thiophene-2-carboxylic acid ethyl ester hydrochloride."
+    },
+    {
+      "id": "exp_080",
+      "name": "Preparation of 4-Chlorobenzylisocyanate",
+      "description": "Preparation of 4-Chlorobenzylisocyanate: Reaction of 4-chlorobenzylamine with phosgene ."
+    },
+    {
+      "id": "exp_081",
+      "name": "Preparation of 2-(Isopropoxycarbonyloxy)benzoyl Chloride",
+      "description": "Preparation of 2-(Isopropoxycarbonyloxy)benzoyl Chloride: Reaction of the carboxylic acid with thionyl chloride ."
+    },
+    {
+      "id": "exp_082",
+      "name": "Synthesis of a Benzimidazole Derivative",
+      "description": "Synthesis of a Benzimidazole Derivative: Reaction of a diamine with methyl 2,2,2-trichloroacetimidate ."
+    },
+    {
+      "id": "exp_083",
+      "name": "Ugi Multi-Component Reaction",
+      "description": "Ugi Multi-Component Reaction: Reaction of a morpholine, formaldehyde, isocyanide, and trimethylsilylazide ."
+    },
+    {
+      "id": "exp_084",
+      "name": "Heterocyclic Substitution",
+      "description": "Heterocyclic Substitution: Reaction of a thiadiazole oxide with an amine derivative."
+    },
+    {
+      "id": "exp_085",
+      "name": "Preparation of 6-(4-Fluorophenyl)-2-methyl-3-pyridinecarbonyl Chloride",
+      "description": "Preparation of 6-(4-Fluorophenyl)-2-methyl-3-pyridinecarbonyl Chloride: Reaction of the carboxylic acid with oxalyl chloride ."
+    },
+    {
+      "id": "exp_086",
+      "name": "Alkylation of 4-Bromo-1H-pyrazole",
+      "description": "Alkylation of 4-Bromo-1H-pyrazole: Reaction with 1-bromo-2-fluoroethane using sodium hydride ."
+    },
+    {
+      "id": "exp_087",
+      "name": "Synthesis of a Urea Intermediate",
+      "description": "Synthesis of a Urea Intermediate: Reaction of an amino piperidine ester with potassium cyanate."
+    },
+    {
+      "id": "exp_088",
+      "name": "Synthesis of a Piperidine-Hydantoin",
+      "description": "Synthesis of a Piperidine-Hydantoin: Acid-mediated cyclization of a urea intermediate."
+    },
+    {
+      "id": "exp_089",
+      "name": "Hydrazone Formation",
+      "description": "Hydrazone Formation: Condensation of 2-octanone with tert-butyl carbazate."
+    },
+    {
+      "id": "exp_090",
+      "name": "Preparation of 1,3-Benzothiazol-6-sulfinic Acid Sodium Salt",
+      "description": "Preparation of 1,3-Benzothiazol-6-sulfinic Acid Sodium Salt: Reduction of the sulfonyl chloride ."
+    },
+    {
+      "id": "exp_091",
+      "name": "Knoevenagel Condensation",
+      "description": "Knoevenagel Condensation: Synthesis of E/Z-6-chloro-3-(3-chloro-benzylidene)-1,3-dihydro-indol-2-one ."
+    },
+    {
+      "id": "exp_092",
+      "name": "Preparation of 4-Bromo-2-methoxybenzoyl Chloride",
+      "description": "Preparation of 4-Bromo-2-methoxybenzoyl Chloride: Reaction of the carboxylic acid with thionyl chloride."
+    },
+    {
+      "id": "exp_093",
+      "name": "Michael Addition",
+      "description": "Michael Addition: Reaction of ethyl 3,3-dimethylacrylate with benzylamine."
+    },
+    {
+      "id": "exp_094",
+      "name": "Synthesis of Ethyl 3-(3-cyano-4-methoxyphenyl)isothiazole-5-carboxylate",
+      "description": "Synthesis of Ethyl 3-(3-cyano-4-methoxyphenyl)isothiazole-5-carboxylate: Deamination/transformation of the amino precursor."
+    },
+    {
+      "id": "exp_095",
+      "name": "Preparation of 2-(3-Benzyloxy-5-trifluoromethyl-phenyl)-propionyl Chloride",
+      "description": "Preparation of 2-(3-Benzyloxy-5-trifluoromethyl-phenyl)-propionyl Chloride: Reaction of the carboxylic acid with oxalyl chloride."
+    },
+    {
+      "id": "exp_096",
+      "name": "Ester Hydrolysis",
+      "description": "Ester Hydrolysis: Conversion of a methyl ester to the acid using HCl ."
+    },
+    {
+      "id": "exp_097",
+      "name": "Preparation of 1,3-Diethyl-8-chloromethylxanthine",
+      "description": "Preparation of 1,3-Diethyl-8-chloromethylxanthine: Chlorination of the hydroxymethyl group using thionyl chloride."
+    },
+    {
+      "id": "exp_098",
+      "name": "Deprotection of a Glutamate Derivative",
+      "description": "Deprotection of a Glutamate Derivative: Removal of Boc and tert-butyl ester groups using TFA ."
+    },
+    {
+      "id": "exp_099",
+      "name": "Synthesis of Ethyl 2-amino-2-hydrazonoacetate",
+      "description": "Synthesis of Ethyl 2-amino-2-hydrazonoacetate: Reaction of ethyl 2-amino-2-thioxoacetate with hydrazine."
+    },
+    {
+      "id": "exp_100",
+      "name": "Nucleophilic Aromatic Substitution",
+      "description": "Nucleophilic Aromatic Substitution: Synthesis of 2-amino-4-phenylthio-1-nitrobenzene from a chloronitrobenzene ."
+    },
+    {
+      "id": "exp_101",
+      "name": "Preparation of Ethyl α-carbethoxy-β-m-chloroanilinoacrylate",
+      "description": "Preparation of Ethyl α-carbethoxy-β-m-chloroanilinoacrylate: Condensation of m-chloroaniline with ethyl ethoxymethylenemalonate ."
+    },
+    {
+      "id": "exp_102",
+      "name": "Isolation of Bromoacetic Acid",
+      "description": "Isolation of Bromoacetic Acid: Crystallization of the residue from the evaporation process ."
+    },
+    {
+      "id": "exp_103",
+      "name": "Purification of an Amino Acid",
+      "description": "Purification of an Amino Acid: Precipitation of the amino acid from solution using absolute alcohol and ether ."
+    },
+    {
+      "id": "exp_104",
+      "name": "Oxidation of Nicotine",
+      "description": "Oxidation of Nicotine: Reaction of nicotine with concentrated nitric acid ."
+    },
+    {
+      "id": "exp_105",
+      "name": "Alkylation Reaction",
+      "description": "Alkylation Reaction: Reaction of dry tert-butyl alcohol and benzene with heating ."
+    },
+    {
+      "id": "exp_106",
+      "name": "Preparation of Cuprous Chloride Solution",
+      "description": "Preparation of Cuprous Chloride Solution: Preparation of the reagent for a Sandmeyer reaction ."
+    },
+    {
+      "id": "exp_107",
+      "name": "General Oxidation Procedure",
+      "description": "General Oxidation Procedure: Oxidation of alcohols to aldehydes using dipyridine chromium(VI) oxide ."
+    },
+    {
+      "id": "exp_108",
+      "name": "Synthesis of Arsonoacetic Acid",
+      "description": "Synthesis of Arsonoacetic Acid: Reaction of arsenious oxide with chloroacetic acid in sodium hydroxide ."
+    },
+    {
+      "id": "exp_109",
+      "name": "Coupling Reaction of Chicago Acid",
+      "description": "Coupling Reaction of Chicago Acid: Preparation of a dye intermediate from 1-amino-8-naphthol-2,4-disulfonic acid ."
+    },
+    {
+      "id": "exp_110",
+      "name": "Synthesis of Glycine (or similar amino acid)",
+      "description": "Synthesis of Glycine (or similar amino acid): Reaction of aqueous ammonia with monochloroacetic acid ."
+    },
+    {
+      "id": "exp_111",
+      "name": "Synthesis of 3,5-Dimethyl-4-carbethoxy-2-cyclohexen-1-one",
+      "description": "Synthesis of 3,5-Dimethyl-4-carbethoxy-2-cyclohexen-1-one: Hantzsch-like condensation of ethyl acetoacetate, acetaldehyde, and piperidine ."
+    },
+    {
+      "id": "exp_112",
+      "name": "Dakin Reaction",
+      "description": "Dakin Reaction: Oxidation of salicylaldehyde with hydrogen peroxide in sodium hydroxide ."
+    },
+    {
+      "id": "exp_113",
+      "name": "Preparation of an Organomercury Compound",
+      "description": "Preparation of an Organomercury Compound: Reaction of mercuric chloride with sodium p-toluenesulfinate ."
+    },
+    {
+      "id": "exp_114",
+      "name": "Hydrolysis of 2-Ketohexamethylenimine",
+      "description": "Hydrolysis of 2-Ketohexamethylenimine: Acidic hydrolysis of the lactam ."
+    },
+    {
+      "id": "exp_115",
+      "name": "Synthesis of 5-Hexynal",
+      "description": "Synthesis of 5-Hexynal: Fragmentation of 2,3-epoxycyclohexanone using a hydrazone intermediate ."
+    },
+    {
+      "id": "exp_116",
+      "name": "Isolation of Ethyl Hydroxycrotonate",
+      "description": "Isolation of Ethyl Hydroxycrotonate: Solvent removal to yield the pure ester."
+    },
+    {
+      "id": "exp_117",
+      "name": "Reaction of Ethyl Crotonate with Cyanide",
+      "description": "Reaction of Ethyl Crotonate with Cyanide: Refluxing ethyl crotonate with sodium cyanide followed by hydrolysis ."
+    },
+    {
+      "id": "exp_118",
+      "name": "Condensation of Pinacolone and Benzaldehyde",
+      "description": "Condensation of Pinacolone and Benzaldehyde: Synthesis of an enone via aldol condensation ."
+    },
+    {
+      "id": "exp_119",
+      "name": "Drying of Diazomethane Solution",
+      "description": "Drying of Diazomethane Solution: Drying the ether solution over potassium hydroxide."
+    },
+    {
+      "id": "exp_120",
+      "name": "Synthesis of 3-(o-Chloroanilino)propionitrile",
+      "description": "Synthesis of 3-(o-Chloroanilino)propionitrile: Reaction of o-chloroaniline with acrylonitrile (implied from context) ."
+    },
+    {
+      "id": "exp_121",
+      "name": "Preparation of Chromic Acid Reagent",
+      "description": "Preparation of Chromic Acid Reagent: Dissolving chromium trioxide in sulfuric acid (Jones Reagent) ."
+    },
+    {
+      "id": "exp_122",
+      "name": "Preparation of Copper Nitrate Solution",
+      "description": "Preparation of Copper Nitrate Solution: Dissolving barium nitrate and copper nitrate in water ."
+    },
+    {
+      "id": "exp_123",
+      "name": "Reaction of Propellane with Iodine",
+      "description": "Reaction of Propellane with Iodine: Synthesis of 1,3-diiodobicyclo[1.1.1]pentane ."
+    },
+    {
+      "id": "exp_124",
+      "name": "Distillation of Hydrobromic Acid",
+      "description": "Distillation of Hydrobromic Acid: Purification and concentration under reduced pressure."
+    },
+    {
+      "id": "exp_125",
+      "name": "Reduction of 1-Octyn-3-one",
+      "description": "Reduction of 1-Octyn-3-one: Reaction involving sodium hydroxide and monitoring by GC ."
+    },
+    {
+      "id": "exp_126",
+      "name": "Synthesis of (S)-(−)-1-Carbamoyl-2-methoxymethylpyrrolidine",
+      "description": "Synthesis of (S)-(−)-1-Carbamoyl-2-methoxymethylpyrrolidine: Reaction of the amine hydrochloride with potassium cyanate."
+    },
+    {
+      "id": "exp_127",
+      "name": "Preparation of Potassium Ethyl Sebacate",
+      "description": "Preparation of Potassium Ethyl Sebacate: Reaction of ethyl hydrogen sebacate with potassium hydroxide ."
+    },
+    {
+      "id": "exp_128",
+      "name": "Purification of ε-Aminocaproic Acid",
+      "description": "Purification of ε-Aminocaproic Acid: Treatment of the hydrochloride with litharge and silver oxide ."
+    },
+    {
+      "id": "exp_129",
+      "name": "Hofmann Rearrangement",
+      "description": "Hofmann Rearrangement: Conversion of acetamide to methylamine using bromine and potassium hydroxide ."
+    }
+  ]
+}

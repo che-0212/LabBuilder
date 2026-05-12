@@ -1,0 +1,252 @@
+{
+  "experiment_id": "exp_018",
+  "experiment_name": "Acid Chloride Synthesis with Thionyl Chloride",
+  "experiment_description": "Preparation of an acid chloride from a carboxylic acid using thionyl chloride, based on the protocol for 2-Methoxy-4-(1-Boc-4-piperidyloxy)benzoyl chloride. ChloroaceticAcid is used as the representative carboxylic acid substrate. Required instruments: RoundBottomFlask, HeatingPlate, RotaryEvaporator, ElectronicScale. Required reagents: ChloroaceticAcid, ThionylChloride, Tetrahydrofuran, Pyridine, DiethylEther.",
+  "assets": [
+    {
+      "name": "ChloroaceticAcid",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Carboxylic acid substrate for reaction",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "ThionylChloride",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Chlorinating agent to convert acid to acid chloride",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "Tetrahydrofuran",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Solvent for the reaction",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "Pyridine",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Catalyst and base to neutralize HCl",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "DiethylEther",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Solvent for workup/reconcentration",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "RoundBottomFlask",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Reaction vessel",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "HeatingPlate",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Stirring and heating the reaction",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "ElectronicScale",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Weighing solid reagents",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "Pipette",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Transferring liquid reagents",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "RotaryEvaporator",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Removing solvents under reduced pressure",
+      "initial_location": "floor"
+    },
+    {
+      "name": "Beaker",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Temporary containment for weighing/transfer",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "GlassRod",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Stirring aid",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "Thermometer",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Monitoring reaction temperature",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "LiquidChromatograph",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Analysis of the product",
+      "initial_location": "ValidationPlatform"
+    }
+  ],
+  "physical_constraints": [
+    {
+      "type": "boundary"
+    },
+    {
+      "type": "non_overlap"
+    }
+  ],
+  "procedure": [
+    {
+      "step_number": 1,
+      "description": "Retrieve ChloroaceticAcid, ThionylChloride, Tetrahydrofuran, Pyridine, and DiethylEther from ReagentCabinet and place them in the FumeHood (liquids) and ExperimentalPlatform (solids).",
+      "assets_involved": [
+        "ChloroaceticAcid",
+        "ThionylChloride",
+        "Tetrahydrofuran",
+        "Pyridine",
+        "DiethylEther"
+      ],
+      "safety_notes": "Handle ThionylChloride and Pyridine with extreme care; ensure FumeHood is active.",
+      "location": "ReagentCabinet"
+    },
+    {
+      "step_number": 2,
+      "description": "Weigh ChloroaceticAcid using the ElectronicScale and transfer it into a Beaker.",
+      "assets_involved": [
+        "ChloroaceticAcid",
+        "ElectronicScale",
+        "Beaker"
+      ],
+      "safety_notes": "Avoid contact with solid acid; wear gloves.",
+      "location": "ExperimentalPlatform"
+    },
+    {
+      "step_number": 3,
+      "description": "Transfer ChloroaceticAcid to a RoundBottomFlask in the FumeHood and dissolve in Tetrahydrofuran using a Pipette.",
+      "assets_involved": [
+        "ChloroaceticAcid",
+        "Tetrahydrofuran",
+        "RoundBottomFlask",
+        "Pipette"
+      ],
+      "safety_notes": "Perform in FumeHood due to solvent vapors.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 4,
+      "description": "Add a catalytic amount of Pyridine to the mixture, then add ThionylChloride dropwise while stirring with the HeatingPlate (stirring function).",
+      "assets_involved": [
+        "Pyridine",
+        "ThionylChloride",
+        "RoundBottomFlask",
+        "HeatingPlate",
+        "Pipette"
+      ],
+      "safety_notes": "Exothermic reaction; gas evolution (HCl, SO2). Keep sash low.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 5,
+      "description": "Stir the reaction mixture at ambient temperature for 4.5 hours to ensure conversion to acid chloride.",
+      "assets_involved": [
+        "RoundBottomFlask",
+        "HeatingPlate",
+        "Thermometer"
+      ],
+      "safety_notes": "Monitor for consistent stirring; ensure ventilation.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 6,
+      "description": "Transfer the RoundBottomFlask to the RotaryEvaporator to remove Tetrahydrofuran and excess ThionylChloride under reduced pressure.",
+      "assets_involved": [
+        "RoundBottomFlask",
+        "RotaryEvaporator"
+      ],
+      "safety_notes": "Collect waste solvents in appropriate waste container; trap acidic vapors.",
+      "location": "RotaryEvaporator"
+    },
+    {
+      "step_number": 7,
+      "description": "Redissolve the residue in DiethylEther in the FumeHood to wash/precipitate impurities.",
+      "assets_involved": [
+        "RoundBottomFlask",
+        "DiethylEther",
+        "Pipette"
+      ],
+      "safety_notes": "DiethylEther is extremely flammable; ensure no ignition sources.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 8,
+      "description": "Concentrate the solution again using the RotaryEvaporator to obtain the final acid chloride product.",
+      "assets_involved": [
+        "RoundBottomFlask",
+        "RotaryEvaporator"
+      ],
+      "safety_notes": "Ensure vacuum system is protected from corrosive vapors.",
+      "location": "RotaryEvaporator"
+    },
+    {
+      "step_number": 9,
+      "description": "Transfer a sample of the product to the ValidationPlatform for analysis using the LiquidChromatograph.",
+      "assets_involved": [
+        "RoundBottomFlask",
+        "LiquidChromatograph",
+        "Pipette"
+      ],
+      "safety_notes": "Handle product as a corrosive acid chloride.",
+      "location": "ValidationPlatform"
+    }
+  ],
+  "safety_warnings": [
+    "Thionyl Chloride is highly toxic and reacts violently with water; use only in a well-ventilated FumeHood.",
+    "Tetrahydrofuran and Diethyl Ether are peroxide-forming flammable solvents; check for peroxides before use.",
+    "Acid chlorides are corrosive and lachrymatory; avoid all skin and eye contact."
+  ],
+  "notes": "ChloroaceticAcid is used as a model substrate because 2-Methoxy-4-(1-Boc-4-piperidyloxy)benzoic acid is not available in the library. The procedure follows the standard thionyl chloride activation protocol.",
+  "llm_generated_constraints": [
+    {
+      "constraint_type": "water_reactive_hazard",
+      "description": "Thionyl Chloride reacts violently with water releasing toxic gases",
+      "asset1": "ThionylChloride",
+      "asset2": "Water",
+      "reason": "Thionyl Chloride hydrolyzes rapidly to form SO2 and HCl gases, posing severe inhalation and burn hazards."
+    },
+    {
+      "constraint_type": "flammable_solvent_hazard",
+      "description": "Highly flammable solvents used near heat sources",
+      "asset1": "Tetrahydrofuran",
+      "asset2": "HeatingPlate",
+      "reason": "Tetrahydrofuran (Flash point -14°C) and DiethylEther (Flash point -45°C) are extremely flammable and can form explosive peroxides."
+    },
+    {
+      "constraint_type": "toxic_vapor_hazard",
+      "description": "Release of toxic fumes during reaction",
+      "asset1": "ThionylChloride",
+      "asset2": "Pyridine",
+      "reason": "Thionyl Chloride releases HCl and SO2; Pyridine has noxious vapors and is toxic by inhalation."
+    },
+    {
+      "constraint_type": "corrosive_solid_hazard",
+      "description": "Handling corrosive solid acid",
+      "asset1": "ChloroaceticAcid",
+      "reason": "ChloroaceticAcid is highly corrosive and toxic, capable of causing severe skin burns."
+    }
+  ]
+}

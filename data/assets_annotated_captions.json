@@ -1,0 +1,761 @@
+{
+  "$schema": "laboratory-asset-captions-v1.0",
+  "captions": [
+    {
+      "id": "BottleWashingAndCappingMachine",
+      "caption": "An automated machine for washing and capping bottles, ensuring high throughput and hygiene. It is typically placed in the washing area to streamline preparation workflows."
+    },
+    {
+      "id": "VolumetricFlask",
+      "caption": "A pear-shaped container with a single graduation mark for preparing precise solutions; do not heat this calibrated glassware."
+    },
+    {
+      "id": "VolumetricFlask",
+      "caption": "A pear-shaped container with a single graduation mark for preparing precise solutions; do not heat this calibrated glassware."
+    },
+    {
+      "id": "VolumetricFlask",
+      "caption": "A pear-shaped container with a single graduation mark for preparing precise solutions; do not heat this calibrated glassware."
+    },
+    {
+      "id": "Beaker",
+      "caption": "A cylindrical glass container with a spout, widely used for mixing, heating, and holding liquids. It is a staple item found on the experimental desk."
+    },
+    {
+      "id": "BiologicalSafetyCabinet",
+      "caption": "An enclosed, ventilated workspace designed to protect users from biohazards. It is critical for safely handling contaminated materials in the microbiology zone."
+    },
+    {
+      "id": "TestTube",
+      "caption": "A cylindrical tube with a rounded bottom used to hold, mix, or heat chemicals; handle with a holder when hot."
+    },
+    {
+      "id": "TestTube",
+      "caption": "A cylindrical tube with a rounded bottom used to hold, mix, or heat chemicals; handle with a holder when hot."
+    },
+    {
+      "id": "Burette",
+      "caption": "A graduated glass tube with a stopcock for dispensing precise liquid volumes. It is primarily used during titration experiments on the laboratory bench."
+    },
+    {
+      "id": "ReagentCabinet",
+      "caption": "A specialized storage unit for organizing chemical reagents safely. It helps segregate incompatible chemicals and is located in the designated storage area."
+    },
+    {
+      "id": "Centrifuge",
+      "caption": "A motor-driven device that spins samples at high speeds to separate components by density. Ensure the rotor is balanced before operation on the instrument bench."
+    },
+    {
+      "id": "Chair",
+      "caption": "An adjustable, ergonomic seat designed to support laboratory personnel during long experiments. It is placed at workstations to ensure comfort and stability."
+    },
+    {
+      "id": "Crucible",
+      "caption": "A heat-resistant cup used for melting or heating substances at very high temperatures. Handle with tongs when moving it to or from a furnace."
+    },
+    {
+      "id": "CryogenicCabinet",
+      "caption": "A freezer designed to maintain temperatures below -80°C for long-term sample preservation. Use protective gloves when accessing contents to prevent frostbite."
+    },
+    {
+      "id": "DistillationFlask",
+      "caption": "A round-bottom flask with a side arm, specifically designed for distillation processes. It connects to a condenser for separating liquid mixtures."
+    },
+    {
+      "id": "DryingOven",
+      "caption": "A thermally insulated chamber used for drying glassware or sterilizing samples. It should be placed in a well-ventilated area away from flammable materials."
+    },
+    {
+      "id": "ElectricSoilPenetrometer",
+      "caption": "An electronic instrument used to measure soil compaction and penetration resistance. It is essential for geotechnical analysis and field studies."
+    },
+    {
+      "id": "ElectronicScale",
+      "caption": "A high-precision instrument for determining the mass of reagents and samples. It must be placed on a stable, vibration-free table for accurate readings."
+    },
+    {
+      "id": "ErlenmeyerFlask",
+      "caption": "A conical flask designed for mixing liquids by swirling without spillage, ideal for titrations on the experimental desk."
+    },
+    {
+      "id": "ExplosionProofCabinet",
+      "caption": "A reinforced storage unit designed to contain hazardous chemicals and mitigate fire risks. Ensure doors are kept closed and latched when not in use."
+    },
+    {
+      "id": "ExplosionProofCabinet",
+      "caption": "A reinforced storage unit designed to contain hazardous chemicals and mitigate fire risks. Ensure doors are kept closed and latched when not in use."
+    },
+    {
+      "id": "FlatBottomFlask",
+      "caption": "A round-bodied flask with a flat base that stands upright on level surfaces. It is suitable for heating liquids when used with a wire gauze."
+    },
+    {
+      "id": "Refrigerator",
+      "caption": "A standard lab appliance for storing temperature-sensitive reagents and biological samples. Do not store food or drink inside this chemical storage unit."
+    },
+    {
+      "id": "FumeHood",
+      "caption": "A ventilated enclosure that limits exposure to hazardous fumes and vapors. Always work with the sash at the proper height to ensure effective containment."
+    },
+    {
+      "id": "GasChromatographyMassSpectrometer",
+      "caption": "An advanced instrument combining separation and detection to identify chemical substances. It requires a stable power supply and gas lines in the instrument room."
+    },
+    {
+      "id": "GlassFunnel",
+      "caption": "A conical glass tool with a narrow stem, used to channel liquids or powders into containers with small openings. It is typically stored in the glassware cabinet or used on the experimental desk."
+    },
+    {
+      "id": "GlassRod",
+      "caption": "A solid glass stick used to mix chemicals and decant liquids safely. It should be rinsed after use and stored in a drawer or beaker on the workbench."
+    },
+    {
+      "id": "GloveBox",
+      "caption": "A sealed containment unit with gloves allowing manipulation of hazardous or air-sensitive materials in an inert atmosphere. It is a stationary unit located in the specialized equipment zone."
+    },
+    {
+      "id": "GrahamCondenser",
+      "caption": "A glass condenser with a coiled inner tube for efficient cooling during distillation or reflux. It connects to water lines and is usually set up on a stand in the fume hood."
+    },
+    {
+      "id": "GravityChromatographyColumn",
+      "caption": "A vertical glass tube with a stopcock used to separate chemical compounds via gravity flow. It is mounted vertically on a stand during purification processes."
+    },
+    {
+      "id": "HeadspaceSampler",
+      "caption": "An automated instrument that extracts volatile compounds from the gas phase above liquids for gas chromatography analysis. It sits adjacent to the GC unit on the instrument bench."
+    },
+    {
+      "id": "HeatingDevice",
+      "caption": "An electrical instrument designed to heat samples or glassware to controlled temperatures. It requires a heat-resistant surface and careful monitoring during operation."
+    },
+    {
+      "id": "HeatingPlate",
+      "caption": "A portable device with a flat electric heating surface for heating solutions in beakers or flasks. It should be placed on a heat-resistant benchtop away from flammable materials."
+    },
+    {
+      "id": "InductivelyCoupledPlasmaMassSpectrometer",
+      "caption": "A high-sensitivity instrument that uses plasma to ionize samples for elemental analysis. It requires a stable power supply and exhaust ventilation in the analytical zone."
+    },
+    {
+      "id": "Incubator",
+      "caption": "A temperature-controlled chamber used to grow and maintain microbiological or cell cultures. It is typically placed in the biology zone to ensure a stable environment."
+    },
+    {
+      "id": "InfraredSpectrophotometer",
+      "caption": "An analytical instrument that identifies chemical substances based on their infrared light absorption. It is a precision device located on the analytical instrument bench."
+    },
+    {
+      "id": "KippsApparatus",
+      "caption": "A distinct glass generator designed for the controlled production of gases in the laboratory. It is typically assembled in a fume hood to manage evolved gases safely."
+    },
+    {
+      "id": "KippsApparatus",
+      "caption": "A distinct glass generator designed for the controlled production of gases in the laboratory. It is typically assembled in a fume hood to manage evolved gases safely."
+    },
+    {
+      "id": "LiquidChromatograph",
+      "caption": "An analytical system used to separate and quantify mixture components using liquid mobile phases. It requires solvent waste management and sits on the instrument bench."
+    },
+    {
+      "id": "GraduatedCylinder",
+      "caption": "A tall glass container with markings for measuring liquid volumes accurately. It should be placed on a flat surface to read the meniscus at eye level."
+    },
+    {
+      "id": "MetallographicAnalyzer",
+      "caption": "A specialized microscope system designed to analyze the microstructure of metals and alloys. It is located in the materials testing zone for surface examination."
+    },
+    {
+      "id": "MeteorologicalChromatograph",
+      "caption": "An analytical instrument tailored for separating and quantifying components in gas mixtures. It is used for precise atmospheric or environmental analysis."
+    },
+    {
+      "id": "Microscope",
+      "caption": "An optical instrument used to magnify objects too small for the naked eye. It requires a stable, vibration-free table and careful lens cleaning."
+    },
+    {
+      "id": "MuffleFurnace",
+      "caption": "A high-temperature oven with an insulated chamber used for ashing samples or heat-treating materials. It poses a burn hazard and requires placement on a fire-resistant surface."
+    },
+    {
+      "id": "NucleicAcidExtractor",
+      "caption": "An automated system designed to isolate and purify DNA or RNA from biological samples. It is used in the molecular biology zone to streamline extraction workflows."
+    },
+    {
+      "id": "Oscillator",
+      "caption": "A laboratory shaker used to mix or agitate substances in containers through oscillation. Ensure containers are secured tightly before operation on the benchtop."
+    },
+    {
+      "id": "Osmometer",
+      "caption": "A device used to measure the osmolality of solutions, often by freezing point depression. It is a precision instrument used in clinical or chemical analysis."
+    },
+    {
+      "id": "OxygenConcentrator",
+      "caption": "A device that concentrates oxygen from ambient air by removing nitrogen. It provides a continuous oxygen supply and should be kept in a well-ventilated area."
+    },
+    {
+      "id": "OxygenGenerator",
+      "caption": "Equipment designed to generate oxygen gas for laboratory applications. It must be kept away from open flames and ignition sources due to fire risks."
+    },
+    {
+      "id": "Pipette",
+      "caption": "A precision tool used to transport measured volumes of liquid in chemistry and biology. It requires disposable tips and regular calibration for accuracy."
+    },
+    {
+      "id": "RotaryEvaporator",
+      "caption": "A device for efficient solvent removal via evaporation, typically placed in a fume hood to manage vapors safely."
+    },
+    {
+      "id": "RoundBottomFlask",
+      "caption": "A spherical glass flask designed for uniform heating and boiling, commonly used with heating mantles or rotary evaporators."
+    },
+    {
+      "id": "BiosafetyCabinet",
+      "caption": "An enclosed, ventilated workspace for safely handling pathogen-contaminated materials, ensuring user and environmental protection."
+    },
+    {
+      "id": "SeparatoryFunnel",
+      "caption": "Glassware used in liquid-liquid extractions to separate immiscible components, typically supported by a ring stand during use."
+    },
+    {
+      "id": "Sterilizer",
+      "caption": "A device that destroys microorganisms on equipment using high pressure and heat; ensure the chamber is sealed before operation."
+    },
+    {
+      "id": "SuctionFlask",
+      "caption": "A thick-walled flask with a side arm designed to withstand pressure changes during vacuum filtration processes."
+    },
+    {
+      "id": "TestTube",
+      "caption": "A cylindrical tube with a rounded bottom used to hold, mix, or heat chemicals; handle with a holder when hot."
+    },
+    {
+      "id": "TestTube",
+      "caption": "A cylindrical tube with a rounded bottom used to hold, mix, or heat chemicals; handle with a holder when hot."
+    },
+    {
+      "id": "Thermometer",
+      "caption": "An instrument for measuring temperature in liquids or gases; handle carefully to prevent breakage during experiments."
+    },
+    {
+      "id": "ThermostaticWaterBath",
+      "caption": "A device used to incubate samples at a constant temperature; ensure water levels are maintained to prevent dry heating."
+    },
+    {
+      "id": "ErlenmeyerFlask",
+      "caption": "A conical flask designed for mixing liquids by swirling without spillage, ideal for titrations on the experimental desk."
+    },
+    {
+      "id": "TubeRack",
+      "caption": "A rack used to hold, store, or transport multiple tubes safely, essential for organizing samples on the lab bench."
+    },
+    {
+      "id": "TubeRack",
+      "caption": "A rack used to hold, store, or transport multiple tubes safely, essential for organizing samples on the lab bench."
+    },
+    {
+      "id": "VacuumSterilizer",
+      "caption": "A sterilizer with a vacuum system to remove air for effective steam penetration, ideal for porous loads or hollow instruments."
+    },
+    {
+      "id": "VolumetricFlask",
+      "caption": "A pear-shaped container with a single graduation mark for preparing precise solutions; do not heat this calibrated glassware."
+    },
+    {
+      "id": "VortexMixer",
+      "caption": "A device used to mix small vials of liquid rapidly via an oscillating rubber cup; press the tube firmly to activate."
+    },
+    {
+      "id": "WashBottle",
+      "caption": "A squeeze bottle with a nozzle used to rinse glassware; label contents clearly to avoid chemical contamination."
+    },
+    {
+      "id": "Computer",
+      "caption": "A programmable device for data processing and instrument control; keep away from liquid spills and chemical hazards."
+    },
+    {
+      "id": "LabBench",
+      "caption": "A sturdy work surface designed for conducting experiments, providing chemical resistance and space for equipment setup."
+    },
+    {
+      "id": "ValidationPlatform",
+      "caption": "A specialized workstation equipped with tools for performing validation protocols to ensure equipment meets regulatory standards."
+    },
+    {
+      "id": "PHMeter",
+      "caption": "An electronic device used to measure the acidity or alkalinity of solutions; calibrate the electrode regularly for accuracy."
+    },
+    {
+      "id": "LaboratoryRoom",
+      "caption": "A designated physical space equipped for conducting scientific experiments and teaching, housing benches and safety equipment."
+    },
+    {
+      "id": "LaboratoryRoom",
+      "caption": "A designated physical space equipped for conducting scientific experiments and teaching, housing benches and safety equipment."
+    },
+    {
+      "id": "Shelf",
+      "caption": "A horizontal structure for storing equipment and reagents; ensure heavy items are placed on lower levels for stability."
+    },
+    {
+      "id": "Water",
+      "caption": "A transparent, universal solvent essential for preparing solutions. It is safe for general use on the experimental desk."
+    },
+    {
+      "id": "AceticAcid",
+      "caption": "A colorless weak acid with a pungent smell, commonly used in synthesis. Store in the acid cabinet away from oxidizers."
+    },
+    {
+      "id": "Acetone",
+      "caption": "A volatile, flammable ketone widely used as a solvent for cleaning glassware. Handle in a well-ventilated area."
+    },
+    {
+      "id": "Acetonitrile",
+      "caption": "A volatile polar aprotic solvent often used in HPLC. It is toxic and should be handled inside a fume hood."
+    },
+    {
+      "id": "Benzene",
+      "caption": "A highly flammable aromatic solvent with a sweet odor. Use strictly in a fume hood due to its carcinogenic nature."
+    },
+    {
+      "id": "Chloroform",
+      "caption": "A dense, sweet-smelling halogenated solvent used in extractions. Handle with care in a fume hood as it is hazardous."
+    },
+    {
+      "id": "Cyclohexane",
+      "caption": "A flammable cycloalkane with a detergent-like odor. Used as a non-polar solvent and should be stored in the flammables cabinet."
+    },
+    {
+      "id": "Dichloromethane",
+      "caption": "A volatile organochloride solvent with a sweet aroma. It is toxic and requires handling in a fume hood."
+    },
+    {
+      "id": "DiethylEther",
+      "caption": "A highly volatile and flammable ether used as a solvent. Keep away from heat sources and store in a cool, safety cabinet."
+    },
+    {
+      "id": "DimethylSulfoxide",
+      "caption": "A polar aprotic solvent capable of dissolving various compounds. It penetrates skin easily, so wear appropriate gloves."
+    },
+    {
+      "id": "Dimethylformamide",
+      "caption": "A polar aprotic solvent with a high boiling point, used in synthesis. Handle in a fume hood due to toxicity."
+    },
+    {
+      "id": "Dioxane",
+      "caption": "A cyclic ether solvent with a faint sweet odor. It is a potential carcinogen and requires handling in a fume hood."
+    },
+    {
+      "id": "Ethanol",
+      "caption": "A volatile, flammable alcohol used as a solvent and disinfectant. Store in the flammables cabinet away from open flames."
+    },
+    {
+      "id": "EthylAcetate",
+      "caption": "A liquid ester with a sweet smell, commonly used in extractions. It is flammable and should be used in a ventilated area."
+    },
+    {
+      "id": "EthylFormate",
+      "caption": "A volatile ester with a rum-like odor, used as a solvent. It is highly flammable and requires storage in a safety cabinet."
+    },
+    {
+      "id": "Heptane",
+      "caption": "A flammable alkane hydrocarbon used as a non-polar solvent. Store in a cool, dry place away from ignition sources."
+    },
+    {
+      "id": "Hexane",
+      "caption": "A volatile alkane used as a non-polar solvent. It is neurotoxic and flammable, requiring use in a fume hood."
+    },
+    {
+      "id": "Methanol",
+      "caption": "A toxic, flammable alcohol used as a solvent. Avoid skin contact and inhalation by handling inside a fume hood."
+    },
+    {
+      "id": "Pentane",
+      "caption": "A highly flammable alkane used as a non-polar solvent. Use with extreme caution away from sparks or heat sources."
+    },
+    {
+      "id": "NPropanol",
+      "caption": "A flammable liquid alcohol used as a solvent. It should be stored in a flammables cabinet and handled with eye protection."
+    },
+    {
+      "id": "Pyridine",
+      "caption": "A basic organic compound with a distinct fish-like odor. It is toxic and flammable, requiring handling in a fume hood."
+    },
+    {
+      "id": "Tetrahydrofuran",
+      "caption": "A water-miscible polar aprotic solvent. It can form peroxides over time, so check expiration dates and store safely."
+    },
+    {
+      "id": "Toluene",
+      "caption": "An aromatic hydrocarbon solvent with a distinct smell. It is flammable and toxic, best used within a fume hood."
+    },
+    {
+      "id": "Water",
+      "caption": "A transparent, universal solvent essential for preparing solutions. It is safe for general use on the experimental desk."
+    },
+    {
+      "id": "Ammonia",
+      "caption": "A colorless inorganic base with a pungent smell. Handle in a fume hood to avoid inhaling irritating vapors."
+    },
+    {
+      "id": "BariumHydroxideOctahydrate",
+      "caption": "A white crystalline strong base used in analytical chemistry. Wear gloves and goggles to prevent skin or eye burns."
+    },
+    {
+      "id": "FormicAcid",
+      "caption": "The simplest carboxylic acid, this colorless liquid has a pungent odor and is used as a preservative. It is corrosive and should be handled in a fume hood."
+    },
+    {
+      "id": "HydrobromicAcid",
+      "caption": "A strong mineral acid used to produce inorganic bromides and for organic synthesis. It is highly corrosive and requires storage in a dedicated acid cabinet."
+    },
+    {
+      "id": "HydrochloricAcid",
+      "caption": "A highly pungent, corrosive solution of hydrogen chloride used for pH adjustment. It requires handling with acid-resistant gloves inside a fume hood."
+    },
+    {
+      "id": "LithiumHydroxide",
+      "caption": "A strong inorganic base used as a CO2 scrubber and in lithium grease production. It is corrosive and should be stored in a cool, dry environment away from acids."
+    },
+    {
+      "id": "MagnesiumHydroxide",
+      "caption": "A white inorganic solid commonly used as an antacid and flame retardant. While mild, it should be handled with standard safety gear to avoid dust inhalation."
+    },
+    {
+      "id": "NitricAcid",
+      "caption": "A strong oxidizing mineral acid used in fertilizer and explosives production. It is highly corrosive and must be stored separately from organic solvents to prevent fires."
+    },
+    {
+      "id": "Piperidine",
+      "caption": "A colorless organic liquid with a characteristic odor, used as a secondary amine in synthesis. It is toxic and flammable, requiring storage in a flammables cabinet."
+    },
+    {
+      "id": "PotassiumCarbonate",
+      "caption": "A white, water-soluble salt used in glass and soap production. It acts as a mild base and should be kept dry to prevent clumping and degradation."
+    },
+    {
+      "id": "PotassiumHydroxide",
+      "caption": "Known as caustic potash, this strong base appears as a white deliquescent solid. It causes severe burns and generates heat upon dissolution, requiring strict safety precautions."
+    },
+    {
+      "id": "SodiumCarbonate",
+      "caption": "A white, odorless salt widely used as a cleaning agent and pH regulator. It is generally safe but should be stored in a dry area to prevent moisture absorption."
+    },
+    {
+      "id": "SodiumEthoxide",
+      "caption": "A strong organic base appearing as a white to yellowish powder, used in organic synthesis. It is moisture-sensitive and corrosive, requiring storage under an inert atmosphere."
+    },
+    {
+      "id": "SodiumHydroxide",
+      "caption": "A strong alkali appearing as white pellets or solution, used for neutralization. It causes severe chemical burns, necessitating the use of eye protection and gloves."
+    },
+    {
+      "id": "SulfuricAcid",
+      "caption": "A highly corrosive, oily mineral acid used extensively in chemical synthesis. It reacts violently with water and must be dispensed carefully in an acid cabinet or hood."
+    },
+    {
+      "id": "TrifluoroaceticAcid",
+      "caption": "A strong, colorless carboxylic acid used in peptide synthesis and organic chemistry. It is volatile and corrosive, requiring handling within a fume hood."
+    },
+    {
+      "id": "Triethylamine",
+      "caption": "A volatile liquid with a fishy odor, used as a base in organic synthesis. It is flammable and toxic, necessitating handling in a fume hood and storage in a flammables cabinet."
+    },
+    {
+      "id": "Carbonyldiimidazole",
+      "caption": "A white crystalline solid used to activate carboxylic acids for coupling reactions. It is sensitive to moisture and should be stored in a tightly sealed container."
+    },
+    {
+      "id": "Dicyclohexylcarbodiimide",
+      "caption": "A waxy white solid used as a coupling agent in peptide synthesis. It is a potent allergen and skin irritant, requiring protective gloves and careful handling."
+    },
+    {
+      "id": "DimethylformamideDimethylAcetal",
+      "caption": "A versatile reagent used for methylating carboxylic acids and phenols. It is moisture-sensitive and should be handled under inert conditions to maintain efficacy."
+    },
+    {
+      "id": "OxalylChloride",
+      "caption": "A colorless, fuming liquid used as a powerful chlorinating agent. It releases toxic gases and must be handled strictly inside a fume hood with appropriate PPE."
+    },
+    {
+      "id": "Phosgene",
+      "caption": "A highly toxic gas or volatile liquid used as a reagent in organic synthesis. Due to extreme inhalation hazards, it requires specialized ventilation and safety protocols."
+    },
+    {
+      "id": "PhosphorusOxychloride",
+      "caption": "A fuming liquid used as a chlorinating agent and in semiconductor manufacturing. It reacts violently with water and must be handled in a fume hood."
+    },
+    {
+      "id": "Phenyltetrachlorophosphorane",
+      "caption": "A hypervalent organophosphorus compound used as a chlorinating agent. It is moisture-sensitive and corrosive, requiring handling in a dry, controlled environment."
+    },
+    {
+      "id": "SulfurylChloride",
+      "caption": "A pungent liquid used for chlorination and sulfonation in organic chemistry. It reacts with water and should be handled in a fume hood to avoid inhaling vapors."
+    },
+    {
+      "id": "ThionylChloride",
+      "caption": "A colorless to yellow liquid used to convert carboxylic acids to acyl chlorides. It releases toxic gases and must be used in a well-ventilated fume hood."
+    },
+    {
+      "id": "ChloroperbenzoicAcid",
+      "caption": "A solid organic peroxy acid used as an oxidizing agent for epoxidation. It is a strong oxidizer and shock-sensitive, requiring cold storage away from reducing agents."
+    },
+    {
+      "id": "Bromine",
+      "caption": "A fuming red-brown liquid halogen used in synthesis; highly corrosive and toxic, requiring handling in a fume hood."
+    },
+    {
+      "id": "ChromiumTrioxide",
+      "caption": "A dark red, hygroscopic solid acting as a powerful oxidizing agent, often stored in the oxidizer cabinet."
+    },
+    {
+      "id": "DibutyltinOxide",
+      "caption": "A white solid organotin compound used as a catalyst in esterification, typically stored with general organic reagents."
+    },
+    {
+      "id": "DipyridineChromiumOxide",
+      "caption": "A mild oxidizing agent composed of chromium(VI) oxide and pyridine, used to convert primary alcohols to aldehydes."
+    },
+    {
+      "id": "HydrogenPeroxide",
+      "caption": "A colorless liquid acting as a strong oxidizing agent and disinfectant, usually stored in a cool, vented cabinet."
+    },
+    {
+      "id": "Iodine",
+      "caption": "A lustrous purple-black solid that sublimes easily, used as a disinfectant and reagent in the general chemical storage."
+    },
+    {
+      "id": "SilverOxide",
+      "caption": "A fine black or dark brown powder used as an oxidizing agent in synthesis, often kept in light-sensitive storage."
+    },
+    {
+      "id": "SodiumBorohydride",
+      "caption": "A white crystalline solid used as a selective reducing agent in organic synthesis, kept away from moisture."
+    },
+    {
+      "id": "SodiumHydride",
+      "caption": "A strong base and reducing agent appearing as a grey solid, highly reactive with water and stored under inert gas."
+    },
+    {
+      "id": "SodiumMetabisulfite",
+      "caption": "A white crystalline powder acting as an antioxidant and preservative, commonly found in the general reagent shelf."
+    },
+    {
+      "id": "SodiumSulfite",
+      "caption": "A white, water-soluble solid used as a reducing agent and preservative, typically stored in a dry environment."
+    },
+    {
+      "id": "ArsenicTrioxide",
+      "caption": "A highly toxic white inorganic compound used in synthesis, requiring strict safety protocols and secure storage."
+    },
+    {
+      "id": "BariumNitrate",
+      "caption": "A white crystalline oxidizer used in pyrotechnics, stored separately from reducing agents and combustibles."
+    },
+    {
+      "id": "CopperNitrateTrihydrate",
+      "caption": "A blue crystalline oxidizer used in organic synthesis, typically stored in the oxidizer cabinet away from heat."
+    },
+    {
+      "id": "CopperSulfate",
+      "caption": "An inorganic compound appearing as blue crystals or white powder, used as a reagent on the experimental desk."
+    },
+    {
+      "id": "LeadHydroxide",
+      "caption": "A white amorphous powder used in manufacturing, handled with care due to lead toxicity and stored securely."
+    },
+    {
+      "id": "Litharge",
+      "caption": "A yellow or reddish-yellow lead(II) oxide solid, used in ceramics and stored with toxic inorganic compounds."
+    },
+    {
+      "id": "MagnesiumOxide",
+      "caption": "A white hygroscopic solid used as a refractory material, kept in a dry container to prevent moisture absorption."
+    },
+    {
+      "id": "MercuricChloride",
+      "caption": "A highly toxic white crystalline solid used as a catalyst, requiring extreme caution and secure toxic storage."
+    },
+    {
+      "id": "PotassiumCyanate",
+      "caption": "A colorless crystalline compound used as a raw material in synthesis, stored away from acids to prevent gas evolution."
+    },
+    {
+      "id": "Sodium",
+      "caption": "A highly reactive, soft silvery metal stored under oil or kerosene to prevent dangerous reactions with air and moisture."
+    },
+    {
+      "id": "SodiumChloride",
+      "caption": "A common white crystalline solid used as a chemical reagent and electrolyte, found on the general lab shelf."
+    },
+    {
+      "id": "SodiumCyanide",
+      "caption": "A highly toxic white solid used in electroplating, requiring strict access control and storage away from acids."
+    },
+    {
+      "id": "SodiumThiophenolate",
+      "caption": "A strong nucleophile reagent used in synthesis, handled in a fume hood due to the potential for foul odors."
+    },
+    {
+      "id": "TetraNButylammoniumIodide",
+      "caption": "A quaternary ammonium salt used as a phase transfer catalyst, typically stored with general organic reagents."
+    },
+    {
+      "id": "AceticAnhydride",
+      "caption": "A colorless liquid with a pungent vinegar odor, used as an acetylating agent. It requires handling in a fume hood due to its corrosive and lachrymatory nature."
+    },
+    {
+      "id": "Acetamide",
+      "caption": "A white crystalline compound used as a solvent and plasticizer. It is typically stored in chemical cabinets and handled with standard safety precautions."
+    },
+    {
+      "id": "Acetaldehyde",
+      "caption": "A volatile, flammable liquid with a fruity odor, serving as an organic precursor. Due to flammability, it must be handled in a fume hood away from ignition sources."
+    },
+    {
+      "id": "Benzaldehyde",
+      "caption": "A colorless liquid with a characteristic almond scent, serving as the simplest aromatic aldehyde. It should be stored in tightly sealed containers to prevent oxidation."
+    },
+    {
+      "id": "Benzylamine",
+      "caption": "A colorless liquid amine with a strong ammonia-like odor. It is corrosive and should be handled carefully within a fume hood during synthesis."
+    },
+    {
+      "id": "BenzoylIsothiocyanate",
+      "caption": "A reactive organic compound containing a benzoyl and isothiocyanate group. It is used in synthesis and requires handling with protective gear in a fume hood."
+    },
+    {
+      "id": "Bis4FluorophenylMethyleneChloride",
+      "caption": "A halogenated organic reagent featuring two 4-fluorophenyl groups. It serves as a specialized intermediate and should be handled in a controlled laboratory environment."
+    },
+    {
+      "id": "ChloroaceticAcid",
+      "caption": "A highly corrosive crystalline solid used widely in organic synthesis. Strict safety protocols and fume hood usage are required to prevent severe skin burns."
+    },
+    {
+      "id": "Crotonaldehyde",
+      "caption": "A flammable and corrosive liquid aldehyde with a pungent odor. It is a toxic precursor that demands handling in a well-ventilated fume hood."
+    },
+    {
+      "id": "Diazomethane",
+      "caption": "A toxic, explosive yellow gas used as a powerful methylating agent. It requires specialized glassware and extreme caution within a fume hood."
+    },
+    {
+      "id": "EthylAcetoacetate",
+      "caption": "A colorless liquid ester with a fruity odor, used as a chemical intermediate. It is commonly utilized in organic synthesis on the experimental desk or fume hood."
+    },
+    {
+      "id": "EthylCrotonate",
+      "caption": "An unsaturated organic ester appearing as a colorless liquid. It serves as a chemical intermediate and should be kept away from heat sources due to flammability."
+    },
+    {
+      "id": "EthylEthoxymethylenemalonate",
+      "caption": "A versatile organic building block used to synthesize heterocycles like quinolines. It is typically handled on the experimental desk with standard PPE."
+    },
+    {
+      "id": "Formaldehyde",
+      "caption": "A strong-smelling gas or solution used as a disinfectant and preservative. Due to toxicity and volatility, it must be used inside a fume hood."
+    },
+    {
+      "id": "Hydrazine",
+      "caption": "A colorless, flammable liquid reducing agent with an ammonia-like odor. It is highly toxic and unstable, requiring careful handling in a fume hood."
+    },
+    {
+      "id": "IsoamylNitrite",
+      "caption": "A volatile chemical compound used as a nitrosating agent and cyanide antidote. It should be stored cool and handled in a fume hood due to flammability."
+    },
+    {
+      "id": "Iodopropane",
+      "caption": "A flammable liquid alkyl iodide used as an alkylating agent. It requires handling in a fume hood to avoid inhalation and fire hazards."
+    },
+    {
+      "id": "IsopropylAlcohol",
+      "caption": "A common volatile solvent and disinfectant with a strong odor. It is flammable and should be kept away from open flames on the experimental desk."
+    },
+    {
+      "id": "IsopropylIsocyanate",
+      "caption": "A colorless liquid intermediate used in pharmaceutical synthesis. As a reactive isocyanate, it must be handled with strict respiratory protection in a fume hood."
+    },
+    {
+      "id": "LAsparticAcid",
+      "caption": "A non-essential alpha-amino acid used in protein biosynthesis. It is generally safe to handle on the experimental desk for biochemical applications."
+    },
+    {
+      "id": "MetaChloroaniline",
+      "caption": "A toxic, light amber liquid amine used as a synthesis intermediate. It requires protective clothing and fume hood usage to prevent exposure."
+    },
+    {
+      "id": "MethylThiosalicylate",
+      "caption": "An organic ester reagent derived from thiosalicylic acid. It is used in organic synthesis and should be handled in a fume hood due to potential odors."
+    },
+    {
+      "id": "MethylTosylate",
+      "caption": "A highly reactive and toxic strong methylating agent. Extreme caution and fume hood usage are mandatory to prevent severe health effects."
+    },
+    {
+      "id": "MethylTrichloroacetimidate",
+      "caption": "A versatile reagent used to convert alcohols into trichloroacetimidates. It should be stored under inert conditions and handled in a fume hood."
+    },
+    {
+      "id": "Nicotine",
+      "caption": "A potent alkaloid stimulant found in nightshade plants. It is highly toxic by skin contact and requires strict safety precautions during handling."
+    },
+    {
+      "id": "PhenylIsocyanate",
+      "caption": "A moisture-sensitive liquid reagent used to identify alcohols, best handled in a fume hood due to its reactivity and potential toxicity."
+    },
+    {
+      "id": "PhenylphosphonicAcid",
+      "caption": "A white crystalline organophosphorus compound used as a synthesis intermediate, typically stored in a cool, dry chemical cabinet."
+    },
+    {
+      "id": "SodiumPToluenesulfinate",
+      "caption": "A stable white crystalline powder used in organic synthesis, usually stored on the reagent shelf or in a chemical cabinet."
+    },
+    {
+      "id": "TertButylAlcohol",
+      "caption": "A flammable tertiary alcohol solvent with a camphor-like odor, often solid at room temperature and used in the fume hood."
+    },
+    {
+      "id": "TertButylCarbazate",
+      "caption": "A reagent used to introduce the Boc protecting group, typically stored in a cool location to ensure stability during synthesis."
+    },
+    {
+      "id": "Thiobenzamide",
+      "caption": "A yellow crystalline organosulfur building block for synthesis, best handled in a fume hood to manage potential sulfurous odors."
+    },
+    {
+      "id": "Thiophenol",
+      "caption": "A toxic organosulfur compound with a distinctively foul odor, strictly requiring handling within a fume hood for safety."
+    },
+    {
+      "id": "Triethoxymethane",
+      "caption": "A colorless liquid orthoester used as a dehydrating agent, requiring tightly closed storage to prevent moisture absorption."
+    },
+    {
+      "id": "TrimethylsilylAzide",
+      "caption": "A reactive organosilicon reagent used in synthesis, requiring careful handling in a fume hood due to potential thermal instability."
+    },
+    {
+      "id": "Triphenylphosphine",
+      "caption": "A common solid organophosphorus reagent for the Wittig reaction, typically stored in a chemical cabinet away from oxidizers."
+    },
+    {
+      "id": "Dibromohexane",
+      "caption": "A halogenated alkylating agent consisting of a hexane chain with two bromine atoms, handled with gloves in a fume hood."
+    },
+    {
+      "id": "1Bromo2Fluoroethane",
+      "caption": "A volatile haloalkane alkylating agent used to introduce fluoroethyl groups, requiring handling within a fume hood."
+    },
+    {
+      "id": "ChlorophenylIsocyanide",
+      "caption": "An isocyanide reagent with a strong odor, used in multicomponent reactions and strictly requiring fume hood usage for ventilation."
+    },
+    {
+      "id": "Chlorophenylisocyanate",
+      "caption": "A moisture-sensitive isocyanate reagent used in synthesis, requiring fume hood handling due to its reactivity and irritant properties."
+    }
+  ]
+}

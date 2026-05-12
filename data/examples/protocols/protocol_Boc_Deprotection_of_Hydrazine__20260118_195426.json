@@ -1,0 +1,273 @@
+{
+  "experiment_id": "exp_052",
+  "experiment_name": "Boc Deprotection of Hydrazine Derivative",
+  "experiment_description": "Acidic cleavage of the tert-butoxycarbonyl (Boc) protecting group from a hydrazine carboxylate derivative using trifluoroacetic acid. Required instruments: RoundBottomFlask, SeparatoryFunnel, RotaryEvaporator, HeatingPlate. Required reagents: TertButylCarbazate, TrifluoroaceticAcid, Dichloromethane, SodiumCarbonate.",
+  "assets": [
+    {
+      "name": "TertButylCarbazate",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Substrate (Boc-protected hydrazine derivative)",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "TrifluoroaceticAcid",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Acidic deprotection reagent",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "Dichloromethane",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Reaction solvent",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "SodiumCarbonate",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Neutralization agent (Base)",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "EthylAcetate",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Extraction solvent",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "SodiumChloride",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Brine for washing",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "RoundBottomFlask",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Reaction vessel",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "Beaker",
+      "type": "instrument",
+      "quantity": 2,
+      "purpose": "Holding solutions and quenching",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "GraduatedCylinder",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Measuring solvents",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "Pipette",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Transferring acid",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "ElectronicScale",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Weighing solid reagents",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "HeatingPlate",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Stirring the reaction",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "GlassRod",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Mixing",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "SeparatoryFunnel",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Liquid-liquid extraction",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "RotaryEvaporator",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Solvent removal",
+      "initial_location": "floor"
+    },
+    {
+      "name": "LiquidChromatograph",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Product analysis",
+      "initial_location": "ValidationPlatform"
+    }
+  ],
+  "physical_constraints": [
+    {
+      "type": "boundary"
+    },
+    {
+      "type": "non_overlap"
+    }
+  ],
+  "procedure": [
+    {
+      "step_number": 1,
+      "description": "Retrieve TertButylCarbazate, TrifluoroaceticAcid, Dichloromethane, SodiumCarbonate, EthylAcetate, and SodiumChloride from ReagentCabinet and place them in appropriate locations.",
+      "assets_involved": [
+        "TertButylCarbazate",
+        "TrifluoroaceticAcid",
+        "Dichloromethane",
+        "SodiumCarbonate",
+        "EthylAcetate",
+        "SodiumChloride"
+      ],
+      "safety_notes": "Transport corrosive and toxic reagents (TFA, DCM) carefully using secondary containment.",
+      "location": "ReagentCabinet"
+    },
+    {
+      "step_number": 2,
+      "description": "Weigh TertButylCarbazate using ElectronicScale and transfer it to a RoundBottomFlask.",
+      "assets_involved": [
+        "TertButylCarbazate",
+        "ElectronicScale",
+        "RoundBottomFlask"
+      ],
+      "safety_notes": "Avoid generating dust; wear gloves.",
+      "location": "ExperimentalPlatform"
+    },
+    {
+      "step_number": 3,
+      "description": "Measure Dichloromethane with a GraduatedCylinder and add it to the RoundBottomFlask to dissolve the solid.",
+      "assets_involved": [
+        "Dichloromethane",
+        "RoundBottomFlask",
+        "GraduatedCylinder"
+      ],
+      "safety_notes": "Perform in FumeHood due to toxic vapors.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 4,
+      "description": "Slowly add TrifluoroaceticAcid dropwise to the reaction mixture using a Pipette while stirring.",
+      "assets_involved": [
+        "TrifluoroaceticAcid",
+        "Pipette",
+        "RoundBottomFlask",
+        "HeatingPlate"
+      ],
+      "safety_notes": "Highly corrosive; wear acid-resistant gloves. Exothermic reaction possible.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 5,
+      "description": "Stir the reaction mixture at room temperature for 1-2 hours to ensure complete deprotection.",
+      "assets_involved": [
+        "RoundBottomFlask",
+        "HeatingPlate"
+      ],
+      "safety_notes": "Maintain FumeHood ventilation.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 6,
+      "description": "Prepare a saturated SodiumCarbonate solution in a Beaker and slowly add the reaction mixture to it to quench excess acid.",
+      "assets_involved": [
+        "SodiumCarbonate",
+        "Water",
+        "Beaker",
+        "RoundBottomFlask",
+        "GlassRod"
+      ],
+      "safety_notes": "Vigorous CO2 gas evolution; add slowly to prevent overflow.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 7,
+      "description": "Transfer the quenched mixture to a SeparatoryFunnel and extract with EthylAcetate.",
+      "assets_involved": [
+        "SeparatoryFunnel",
+        "EthylAcetate",
+        "Beaker"
+      ],
+      "safety_notes": "Vent SeparatoryFunnel frequently to release pressure.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 8,
+      "description": "Wash the organic layer with SodiumChloride solution (brine) in the SeparatoryFunnel.",
+      "assets_involved": [
+        "SeparatoryFunnel",
+        "SodiumChloride"
+      ],
+      "safety_notes": "Ensure proper phase separation.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 9,
+      "description": "Collect the organic layer in a Beaker and transfer to the RotaryEvaporator to remove solvents.",
+      "assets_involved": [
+        "RotaryEvaporator",
+        "Beaker"
+      ],
+      "safety_notes": "Ensure solvent trap is functioning.",
+      "location": "RotaryEvaporator"
+    },
+    {
+      "step_number": 10,
+      "description": "Analyze the crude product using the LiquidChromatograph.",
+      "assets_involved": [
+        "LiquidChromatograph"
+      ],
+      "safety_notes": "Handle samples with gloves.",
+      "location": "ValidationPlatform"
+    }
+  ],
+  "safety_warnings": [
+    "Trifluoroacetic Acid is extremely corrosive and volatile; never handle outside a fume hood.",
+    "Dichloromethane is toxic and a suspected carcinogen; avoid inhalation.",
+    "Neutralization of acid with carbonate releases CO2 gas rapidly; risk of vessel overflow or pressure buildup in closed containers."
+  ],
+  "notes": "TertButylCarbazate is used here as the representative hydrazine carboxylate substrate. The procedure applies generally to Boc-protected hydrazines.",
+  "llm_generated_constraints": [
+    {
+      "constraint_type": "corrosive_volatile_hazard",
+      "description": "High corrosivity and volatility of Trifluoroacetic Acid",
+      "asset1": "TrifluoroaceticAcid",
+      "reason": "TrifluoroaceticAcid is a strong organic acid that is highly corrosive to skin and eyes and volatile (boiling point ~72°C), posing inhalation risks."
+    },
+    {
+      "constraint_type": "toxic_volatile_hazard",
+      "description": "Toxicity and volatility of Dichloromethane",
+      "asset1": "Dichloromethane",
+      "reason": "Dichloromethane is a volatile organochloride solvent (vapor pressure ~435 mmHg at 20°C) that is toxic by inhalation and a suspected carcinogen."
+    },
+    {
+      "constraint_type": "incompatible_reagents_gas_evolution",
+      "description": "Gas evolution during neutralization",
+      "asset1": "TrifluoroaceticAcid",
+      "asset2": "SodiumCarbonate",
+      "reason": "Reaction between strong acid (TFA) and carbonate base releases Carbon Dioxide gas rapidly, causing potential overflow or pressure buildup."
+    },
+    {
+      "constraint_type": "flammable_solvent_hazard",
+      "description": "Flammability of extraction solvent",
+      "asset1": "EthylAcetate",
+      "reason": "EthylAcetate is a flammable liquid (Flash point -4°C) commonly used in workup, posing fire risks if near ignition sources."
+    }
+  ]
+}

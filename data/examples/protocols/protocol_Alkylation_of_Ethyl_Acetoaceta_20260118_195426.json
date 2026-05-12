@@ -1,0 +1,305 @@
+{
+  "experiment_id": "exp_008",
+  "experiment_name": "Alkylation of Ethyl Acetoacetate with Bis(4-fluorophenyl)methylene Chloride",
+  "experiment_description": "Alkylation of an active methylene compound using Sodium Hydride and a phase transfer catalyst. Note: Ethyl Acetoacetate is used as the substrate in place of Diethyl Acetamidomalonate due to library availability. Required instruments: HeatingPlate, RotaryEvaporator, LiquidChromatograph. Required reagents: SodiumHydride, Bis4FluorophenylMethyleneChloride, TetraNButylammoniumIodide.",
+  "assets": [
+    {
+      "name": "EthylAcetoacetate",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Active methylene substrate for alkylation",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "Bis4FluorophenylMethyleneChloride",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Alkylating agent",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "SodiumHydride",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Strong base for deprotonation",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "TetraNButylammoniumIodide",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Phase transfer catalyst",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "Dimethylformamide",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Polar aprotic solvent for reaction",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "EthylAcetate",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Solvent for extraction workup",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "Hexane",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Solvent for extraction workup",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "Acetonitrile",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Solvent for HPLC analysis",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "SodiumChloride",
+      "type": "reagent",
+      "quantity": 1,
+      "purpose": "Brine for washing organic layer",
+      "initial_location": "ReagentCabinet"
+    },
+    {
+      "name": "RoundBottomFlask",
+      "type": "instrument",
+      "quantity": 2,
+      "purpose": "Reaction vessel",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "HeatingPlate",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Heating and stirring the reaction",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "GrahamCondenser",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Reflux condensation during heating",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "Thermometer",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Monitoring reaction temperature",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "SeparatoryFunnel",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Liquid-liquid extraction",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "ElectronicScale",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Weighing solid reagents",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "Pipette",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Transferring liquid reagents",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "Beaker",
+      "type": "instrument",
+      "quantity": 2,
+      "purpose": "Handling liquids and quenching",
+      "initial_location": "ExperimentalPlatform"
+    },
+    {
+      "name": "RotaryEvaporator",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Removing solvent",
+      "initial_location": "floor"
+    },
+    {
+      "name": "LiquidChromatograph",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Analyzing product purity",
+      "initial_location": "ValidationPlatform"
+    },
+    {
+      "name": "VolumetricFlask",
+      "type": "instrument",
+      "quantity": 1,
+      "purpose": "Preparing sample for analysis",
+      "initial_location": "ExperimentalPlatform"
+    }
+  ],
+  "physical_constraints": [
+    {
+      "type": "boundary"
+    },
+    {
+      "type": "non_overlap"
+    }
+  ],
+  "procedure": [
+    {
+      "step_number": 1,
+      "description": "Retrieve SodiumHydride, EthylAcetoacetate, Bis4FluorophenylMethyleneChloride, TetraNButylammoniumIodide, Dimethylformamide, EthylAcetate, Hexane, Acetonitrile, and SodiumChloride from ReagentCabinet and place them in the FumeHood.",
+      "assets_involved": [
+        "SodiumHydride",
+        "EthylAcetoacetate",
+        "Bis4FluorophenylMethyleneChloride",
+        "TetraNButylammoniumIodide",
+        "Dimethylformamide",
+        "EthylAcetate",
+        "Hexane",
+        "Acetonitrile",
+        "SodiumChloride"
+      ],
+      "safety_notes": "Wear gloves and safety goggles. Handle Sodium Hydride with extreme care.",
+      "location": "ReagentCabinet"
+    },
+    {
+      "step_number": 2,
+      "description": "Weigh SodiumHydride and TetraNButylammoniumIodide using ElectronicScale. Measure EthylAcetoacetate, Bis4FluorophenylMethyleneChloride, and Dimethylformamide using Pipette.",
+      "assets_involved": [
+        "ElectronicScale",
+        "Pipette",
+        "SodiumHydride",
+        "TetraNButylammoniumIodide",
+        "EthylAcetoacetate",
+        "Bis4FluorophenylMethyleneChloride",
+        "Dimethylformamide"
+      ],
+      "safety_notes": "Perform all weighing and measuring of hazardous reagents inside the FumeHood.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 3,
+      "description": "In a RoundBottomFlask, dissolve EthylAcetoacetate in Dimethylformamide. Carefully add SodiumHydride in small portions. Stir at room temperature for 1 hour using HeatingPlate (stirring function only).",
+      "assets_involved": [
+        "RoundBottomFlask",
+        "EthylAcetoacetate",
+        "Dimethylformamide",
+        "SodiumHydride",
+        "HeatingPlate"
+      ],
+      "safety_notes": "Hydrogen gas will evolve. Ensure FumeHood ventilation is active. Do not seal the flask tightly.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 4,
+      "description": "Add Bis4FluorophenylMethyleneChloride and TetraNButylammoniumIodide to the reaction mixture.",
+      "assets_involved": [
+        "RoundBottomFlask",
+        "Bis4FluorophenylMethyleneChloride",
+        "TetraNButylammoniumIodide"
+      ],
+      "safety_notes": "Add reagents slowly to avoid sudden exotherms.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 5,
+      "description": "Attach GrahamCondenser to the flask. Heat the mixture to 50°C for 16 hours, then increase to 80°C for another 16 hours. Monitor temperature with Thermometer.",
+      "assets_involved": [
+        "RoundBottomFlask",
+        "GrahamCondenser",
+        "HeatingPlate",
+        "Thermometer"
+      ],
+      "safety_notes": "Ensure cooling water is flowing through the condenser. Monitor for overheating.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 6,
+      "description": "Cool the reaction mixture to room temperature. Carefully quench excess SodiumHydride by adding Water dropwise.",
+      "assets_involved": [
+        "RoundBottomFlask",
+        "Water",
+        "Beaker"
+      ],
+      "safety_notes": "Quenching NaH is exothermic and releases hydrogen. Add water very slowly.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 7,
+      "description": "Transfer mixture to SeparatoryFunnel. Extract with EthylAcetate and Hexane. Wash organic layer with water and SodiumChloride solution (brine).",
+      "assets_involved": [
+        "SeparatoryFunnel",
+        "EthylAcetate",
+        "Hexane",
+        "Water",
+        "SodiumChloride",
+        "Beaker"
+      ],
+      "safety_notes": "Vent SeparatoryFunnel frequently to release pressure.",
+      "location": "FumeHood"
+    },
+    {
+      "step_number": 8,
+      "description": "Collect the organic layer and remove solvents using the RotaryEvaporator.",
+      "assets_involved": [
+        "RotaryEvaporator",
+        "Beaker"
+      ],
+      "safety_notes": "Ensure proper vacuum and cooling to trap solvents.",
+      "location": "RotaryEvaporator"
+    },
+    {
+      "step_number": 9,
+      "description": "Dissolve a small sample of the residue in Acetonitrile in a VolumetricFlask and analyze using the LiquidChromatograph.",
+      "assets_involved": [
+        "LiquidChromatograph",
+        "VolumetricFlask",
+        "Acetonitrile"
+      ],
+      "safety_notes": "Dispose of chemical waste in appropriate containers.",
+      "location": "ValidationPlatform"
+    }
+  ],
+  "safety_warnings": [
+    "Sodium Hydride is water-reactive and pyrophoric; handle under inert conditions if possible and quench with extreme caution.",
+    "Dimethylformamide is toxic and easily absorbed through skin; wear appropriate chemical resistant gloves.",
+    "Bis(4-fluorophenyl)methylene chloride is a halogenated alkylating agent; avoid all contact."
+  ],
+  "notes": "Ethyl Acetoacetate is used as the active methylene compound. Reaction times are based on the reference protocol for similar substrates.",
+  "llm_generated_constraints": [
+    {
+      "constraint_type": "water_reactive_hazard",
+      "description": "Sodium Hydride reacts violently with water to produce flammable hydrogen gas",
+      "asset1": "SodiumHydride",
+      "asset2": "Water",
+      "reason": "Sodium Hydride is a strong base and reducing agent that releases H2 gas upon contact with moisture, presenting a fire/explosion hazard."
+    },
+    {
+      "constraint_type": "flammable_solvent_heat_hazard",
+      "description": "Flammable solvents used near heating source",
+      "asset1": "EthylAcetate",
+      "asset2": "HeatingPlate",
+      "reason": "Ethyl Acetate and Hexane have low flash points and can ignite if vapors contact the heating element."
+    },
+    {
+      "constraint_type": "toxic_reagent_hazard",
+      "description": "Handling of toxic and teratogenic solvents",
+      "asset1": "Dimethylformamide",
+      "reason": "DMF is a potent liver toxin and teratogen that is easily absorbed through the skin."
+    },
+    {
+      "constraint_type": "halogenated_organic_hazard",
+      "description": "Handling of halogenated alkylating agents",
+      "asset1": "Bis4FluorophenylMethyleneChloride",
+      "reason": "Halogenated benzylic chlorides are often lachrymators and skin irritants/corrosives."
+    }
+  ]
+}
