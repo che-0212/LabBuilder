@@ -24,8 +24,11 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Data & Output (large files)
-assets/
+# Data & Output (large files, 3D assets)
+assets/*.usd
+assets/*.usda
+assets/*.usdz
+assets/3d_models/
 OUTPUT/
 results/
 *.zip
