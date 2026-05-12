@@ -11,17 +11,6 @@
 </p>
 
 <p align="center">
-  Jianbao Cao*<sup>1,2</sup>, Zhangrui Zhao*<sup>1,3</sup>, Bohan Feng*<sup>1</sup>, Zixuan Hu<sup>4</sup>, Rui Li<sup>1</sup>, Haiyuan Wan<sup>5</sup>, Chenxi Li<sup>1</sup>,<br>
-  Jingyuan Li<sup>6</sup>, Wenzhe Cai<sup>1</sup>, Lei Bai<sup>1</sup>, Wanli Ouyang<sup>1,7</sup>, Lingyu Duan<sup>4</sup>, Di Huang<sup>3</sup>, Minting Pan<sup>1</sup>, Sha Zhang<sup>7</sup>,<br>
-  Xinzhu Ma<sup>3</sup>, Shixiang Tang<sup>&dagger;,7</sup>, Dongzhan Zhou<sup>&dagger;,1</sup>
-</p>
-
-<p align="center">
-  <sup>1</sup>Shanghai AI Laboratory, <sup>2</sup>Wuhan University, <sup>3</sup>Beihang University,<br>
-  <sup>4</sup>Peking University, <sup>5</sup>Tsinghua University, <sup>6</sup>Shanghai Jiao Tong University, <sup>7</sup>The Chinese University of Hong Kong
-</p>
-
-<p align="center">
   <b>ICML 2026</b>
 </p>
 
